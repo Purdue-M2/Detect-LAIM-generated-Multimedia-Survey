@@ -16,8 +16,11 @@ If you find our survey useful for your research, please cite the following paper
 }
 ```
 ## Contents
-- [Introductory Papers](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#introductory-papers)
- - [Papers](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#papers)
+- [Introductory Papers](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#introductory)
+  - [Papers](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#papers)
+  - [Articles](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#articles)
+- [Related Works](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#related-works)
+- [News articles](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#related-works)
 
 ## Introductory
 ### Papers

@@ -150,7 +150,7 @@ arXiv 2023. [Paper]()
 *Ferrara, Emilio* \
 arXiv 2023. [Paper]()
 
-## News articles necessitating detection of LAM generated Multimedia
+## News articles necessitating detection of LAM-generated Multimedia
 
 | **Sentiment** | **Category** | **Model** | **Article** | **Year** | **Publisher** | **Link** | 
 |---------------|--------------|-----------|-------------|----------|---------------|----------|
@@ -216,3 +216,5 @@ arXiv 2023. [Paper]()
 | **Negative** | Ethics | DMs | People think white AI-generated faces are more real than actual photos, study says | Nov 2023 | Ars Technica | [Link](https://arstechnica.com/information-technology/2023/11/people-think-white-ai-generated-faces-are-more-real-than-actual-photos-study-says/) |
 | **Negative** | Ethics | LLMs | Was that essay written by AI? A student made an app that might tell you. | Jan 2023 | Washington Post | [Link](https://www.washingtonpost.com/education/2023/01/12/gptzero-chatgpt-detector-ai/) |
 | **Negative** | Ethics | LLMs | Generative AI: A Blessing or a Curse for Cybersecurity? | May 2023 | inWeb3 | [Link](https://www.inweb3.com/generative-ai-a-blessing-or-a-curse-for-cybersecurity/) |
+
+

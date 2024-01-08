@@ -16,7 +16,7 @@ If you find our survey useful for your research, please cite the following paper
 }
 ```
 ## Contents
--
+- [Introductory Papers](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#introductory-papers)
 
 ## Introductory Papers
 
@@ -32,3 +32,32 @@ IEEE Computer Society 2023.
 *Li, Chunyuan and others* \
 arXiv 2023.
 
+**Large ai models in health informatics: Applications, challenges, and the future** \
+*Qiu, Jianing and others* \
+IEEE Journal of Biomedical and Health Informatics 2023.
+
+**On the educational impact of chatgpt: Is artificial intelligence ready to obtain a university degree?** \
+*Malinka, Kamil and others* \
+Proceedings of the 2023 Conference on Innovation and Technology in Computer Science Education V. 1 2023.
+
+**ChatGPT: The end of online exam integrity?** \
+*Susnjak, Teo* \
+Proceedings of the 2023 Conference on Innovation and Technology in Computer Science Education V. 1 2022.
+
+**ChatCAD+: Towards a Universal and Reliable Interactive CAD using LLMs** \
+*Zhao, Zihao and others* \
+arXiv 2023.
+
+**Xraygpt: Chest radiographs summarization using medical vision-language models** \
+*Thawkar, Omkar and others* \
+arXiv 2023.
+
+**Generative AI is here: How tools like ChatGPT could change your business** \
+*Chui, Michael and others* \
+Quantum Black AI by McKinsey 2022.
+
+###
+
+**Generative AI is here: How tools like ChatGPT could change your business** \
+*Chui, Michael and others* \
+Quantum Black AI by McKinsey 2022.

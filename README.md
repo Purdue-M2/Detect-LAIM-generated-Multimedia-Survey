@@ -17,6 +17,7 @@ If you find our survey useful for your research, please cite the following paper
 ```
 ## Contents
 - [Introductory Papers](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#introductory-papers)
+ - [Papers](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md##Papers)
 
 ## Introductory
 ### Papers
@@ -76,6 +77,19 @@ West Science Law and Human Rights 2023. [Paper]()
 **The Social Impact of Generative AI: An Analysis on ChatGPT** \
 *Baldassarre, Maria Teresa and others* \
 Proceedings of the 2023 ACM Conference on Information Technology for Social Good 2023. [Paper]()
+
+**The making of an AI news anchor—and its implications** \
+*Bohacek, Matyas and others* \
+Proceedings of the National Academy of Sciences 2024. [Paper]()
+
+**News from generative artificial intelligence is believed less** \
+*Longoni, Chiara and others* \
+Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency 2022. [Paper]()
+
+**Detecting cross-modal inconsistency to defend against neural fake news** \
+*Longoni, Chiara and others* \
+Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency 2022. [Paper]()
+
 
 
 ### Articles

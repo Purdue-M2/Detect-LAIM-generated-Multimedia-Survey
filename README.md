@@ -18,46 +18,69 @@ If you find our survey useful for your research, please cite the following paper
 ## Contents
 - [Introductory Papers](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#introductory-papers)
 
-## Introductory Papers
+## Introductory
+### Papers
 
 **A survey of large language models** \
 *Zhao, Wayne Xin and others* \
-arXiv 2023. 
+arXiv 2023. [Paper]()
 
 **Large-scale artificial intelligence models** \
 *Lin, Hsiao-Ying* \
-IEEE Computer Society 2023.
+IEEE Computer Society 2023. [Paper]()
 
 **Multimodal foundation models: From specialists to general-purpose assistants** \
 *Li, Chunyuan and others* \
-arXiv 2023.
+arXiv 2023. [Paper]()
 
 **Large ai models in health informatics: Applications, challenges, and the future** \
 *Qiu, Jianing and others* \
-IEEE Journal of Biomedical and Health Informatics 2023.
+IEEE Journal of Biomedical and Health Informatics 2023. [Paper]()
 
 **On the educational impact of chatgpt: Is artificial intelligence ready to obtain a university degree?** \
 *Malinka, Kamil and others* \
-Proceedings of the 2023 Conference on Innovation and Technology in Computer Science Education V. 1 2023.
+Proceedings of the 2023 Conference on Innovation and Technology in Computer Science Education V. 1 2023. [Paper]()
 
 **ChatGPT: The end of online exam integrity?** \
 *Susnjak, Teo* \
-Proceedings of the 2023 Conference on Innovation and Technology in Computer Science Education V. 1 2022.
+Proceedings of the 2023 Conference on Innovation and Technology in Computer Science Education V. 1 2022. [Paper]()
 
 **ChatCAD+: Towards a Universal and Reliable Interactive CAD using LLMs** \
 *Zhao, Zihao and others* \
-arXiv 2023.
+arXiv 2023. [Paper]()
 
 **Xraygpt: Chest radiographs summarization using medical vision-language models** \
 *Thawkar, Omkar and others* \
-arXiv 2023.
+arXiv 2023. [Paper]()
 
 **Generative AI is here: How tools like ChatGPT could change your business** \
 *Chui, Michael and others* \
-Quantum Black AI by McKinsey 2022.
+Quantum Black AI by McKinsey 2022. [Paper]()
 
-###
+**An Autoethnographic Case Study of Generative Artificial Intelligence's Utility for Accessibility** \
+*Glazko, Kate S and others* \
+Proceedings of the 25th International ACM SIGACCESS Conference on Computers and Accessibility 2023. [Paper]()
 
-**Generative AI is here: How tools like ChatGPT could change your business** \
-*Chui, Michael and others* \
-Quantum Black AI by McKinsey 2022.
+**An Autoethnographic Case Study of Generative Artificial Intelligence's Utility for Accessibility** \
+*Glazko, Kate S and others* \
+Proceedings of the 25th International ACM SIGACCESS Conference on Computers and Accessibility 2023. [Paper]()
+
+**Generative AI: Here to stay, but for good?** \
+*S&aelig;tra, Henrik Skaug* \
+Elsevier. Technology in Society 2023. [Paper]()
+
+**The Implication of Generative Artificial Intelligence towards Intellectual Property Rights (Examining the Multifaceted Implications of Generative Artificial Intelligence on Intellectual Property Rights)** \
+*Napitupulu, Priscilla Auleader and others* \
+West Science Law and Human Rights 2023. [Paper]()
+
+**The Social Impact of Generative AI: An Analysis on ChatGPT** \
+*Baldassarre, Maria Teresa and others* \
+Proceedings of the 2023 ACM Conference on Information Technology for Social Good 2023. [Paper]()
+
+
+### Articles
+
+**Designing Generative AI to Work for People with Disabilities** \
+*Laurie Henneborn* \
+2023. [Article](http://tinyurl.com/mrfcrs94)
+

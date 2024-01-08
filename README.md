@@ -17,7 +17,7 @@ If you find our survey useful for your research, please cite the following paper
 ```
 ## Contents
 - [Introductory Papers](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#introductory-papers)
- - [Papers](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md##Papers)
+ - [Papers](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#papers)
 
 ## Introductory
 ### Papers
@@ -87,9 +87,20 @@ Proceedings of the National Academy of Sciences 2024. [Paper]()
 Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency 2022. [Paper]()
 
 **Detecting cross-modal inconsistency to defend against neural fake news** \
-*Longoni, Chiara and others* \
-Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency 2022. [Paper]()
+*Tan, Reuben and others* \
+Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP). Association for Computational Linguistics 2022. [Paper]()
 
+**Detecting and grounding multi-modal media manipulation** \
+*Shao, Rui and others* \
+Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022. [Paper]()
+
+**AI Art and its Impact on Artists** \
+*Jiang, Harry H and others* \
+Proceedings of the 2023 AAAI/ACM Conference on AI, Ethics, and Society 2023. [Paper]()
+
+**Generative Artificial Intelligence and Copyright: Both Sides of the Black Box** \
+*Hayes, Carol Mullins* \
+SSRN 2023. [Paper]()
 
 
 ### Articles
@@ -97,4 +108,61 @@ Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transpar
 **Designing Generative AI to Work for People with Disabilities** \
 *Laurie Henneborn* \
 2023. [Article](http://tinyurl.com/mrfcrs94)
+
+**‘Is It Good Enough to Fool My Gallerist?’** \
+*New York Times* \
+2023. [Article](https://shorturl.at/wzK17)
+
+**AI SAFETY SUMMIT** \
+*HOSTED BY THE UK* \
+2023. [Article](https://www.aisafetysummit.gov.uk/)
+
+**Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence** \
+*Federal Register* \
+2023. [Article](http://tinyurl.com/25t76x4d)
+
+## Related work
+
+**A Survey on Detection of LLMs-Generated Content** \
+*Yang, Xianjun and others* \
+arXiv 2023. [Paper]()
+
+**A Survey on LLM-generated Text Detection: Necessity, Methods, and Future Directions** \
+*Wu, Junchao and others* \
+arXiv 2023. [Paper]()
+
+**Towards possibilities \& impossibilities of ai-generated text detection: A survey** \
+*Ghosal, Soumya Suvra and others* \
+arXiv 2023. [Paper]()
+
+**Machine-generated text: A comprehensive survey of threat models and detection methods** \
+*Crothers, Evan and others* \
+IEEE Access 2023. [Paper]()
+
+**The Age of Synthetic Realities: Challenges and Opportunities** \
+*Cardenuto, Jo&tilde;ao Phillipe and others* \
+arXiv 2023. [Paper]()
+
+**GenAI against humanity: Nefarious applications of generative artificial intelligence and large language models** \
+*Ferrara, Emilio* \
+arXiv 2023. [Paper]()
+
+## News articles necessitating detection of LAM generated Multimedia
+
+| **Sentiment** | **Category** | **Model** | **Article** | **Year** | **Publisher** | **Link** | **Reference** |
+|---------------|--------------|-----------|-------------|----------|---------------|----------|---------------|
+| **Neutral**   |              | DMs       | How Is Everyone Making Those A.I. Selfies? | Dec 2022 | New York Times | [Link](https://www.nytimes.com/2022/12/07/style/lensa-ai-selfies.html) | ai_selfies_lensa_nytimes_2022 |
+| **Neutral**   |              | DMs       | ChatGPT Can Now Generate Images, Too | Sep 2023 | New York Times | [Link](https://www.nytimes.com/2023/09/20/technology/chatgpt-dalle3-images-openai.html) | chatgpt_generating_images_nytimes_2023a |
+| **Neutral**   |              | DMs       | Can AI make photos of you look better than you do in real life? | Dec 2023 | Fox news | [Link](https://www.foxnews.com/tech/can-ai-make-photos-of-you-look-better-than-you-do-real-life) | ai_improving_photos_foxnews_2023 |
+| **Neutral**   |              | DMs, LLMs | This Robot Can Paint. But Is It Art? | May 2023 | New York Times | [Link](https://www.nytimes.com/2023/05/02/science/ai-creativity-paintbot.html) | robot_painting_art_nytimes_2023 |
+| **Neutral**   |              | DMs, LLMs | A Coming-Out Party for Generative A.I., Silicon Valley’s New Craze | Oct 2022 | New York Times | [Link](https://www.nytimes.com/2022/10/21/technology/generative-ai.html) | generative_ai_coming_out_party_nytimes_2022 |
+| **Neutral**   |              | DMs, LLMs | How Easy Is It to Fool A.I.-Detection Tools? | Jun 2023 | New York Times | [Link](https://www.nytimes.com/interactive/2023/06/28/technology/ai-detection-midjourney-stable-diffusion-dalle.html) | ai_detection_tools_fooling_nytimes_2023 |
+| **Neutral**   |              | LLMs      | AI-generated kids' book using ChatGPT, Midjourney caught in art debate - The Washington Post | Jan 2023 | Washington Post | [Link](https://www.washingtonpost.com/technology/2023/01/19/ai-childrens-book-controversy-chatgpt-midjourney/) | ai_childrens_book_controversy_washingtonpost_2023 |
+| **Neutral**   |              | LLMs      | A disturbing AI phenomenon could completely upend the internet as we know it | Aug 2023 | Business Insider | [Link](https://www.businessinsider.com/ai-model-collapse-threatens-to-break-internet-2023-8) | ai_phenomenon_upend_internet_businessinsider_2023 |
+| **Neutral**   |              | LLMs      | THE LLM DEEP FAKE—FOLLOW THE MONEY | Jun 2023 | Mind Matters | [Link](https://mindmatters.ai/2023/06/the-llm-deep-fake-follow-the-money/) | llm_deep_fake_follow_the_money_mindmatters_2023 |
+| **Neutral**   |              | LLMs      | A year of ChatGPT: 5 ways the AI marvel has changed the world | Nov 2023 | UNSW Newsroom | [Link](https://newsroom.unsw.edu.au/news/science-tech/year-chatgpt-5-ways-ai-marvel-has-changed-world) | chatgpt_impact_unswnewsroom_2023 |
+| **Neutral**   |              | LLMs      | Verbal nonsense reveals limitations of AI chatbots | Sep 2023 | Science daily | [Link](https://www.sciencedaily.com/releases/2023/09/230914114704.htm) | ai_chatbots_limitations_sciencedaily_2023a |
+| **Neutral**   |              | LLMs      | Pros and cons of ChatGPT plugin, Code Interpreter, in education, biology, health | Aug 2023 | Science daily | [Link](https://www.sciencedaily.com/releases/2023/08/230825122024.htm) | chatgpt_plugin_pros_cons_sciencedaily_2023b |
+| **Neutral**   |              | LLMs      | Wikipedia’s Moment of Truth | Sep 2023 | New York Times | [Link](https://www.nytimes.com/2023/07/18/magazine/wikipedia-ai-chatgpt.html) | wikipedia_moment_of_truth_nytimes_2023 |
+| **Neutral**   |              | LLMs      | A.I. Is Mastering Language. Should We Trust What It Says? | Apr 2022 | New York Times | [Link](https://www.nytimes.com/2022/04/15/magazine/ai-language.html) | ai_mastering_language_nytimes_2022 |
 

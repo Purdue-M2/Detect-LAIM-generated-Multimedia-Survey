@@ -22,29 +22,17 @@ If you find our survey useful for your research, please cite the following paper
 
 ## Related work
 
-**A Survey on Detection of LLMs-Generated Content** \
-*Yang, Xianjun and others* \
-arXiv 2023. [Paper]()
+**A Survey on Detection of LLMs-Generated Content**  [Paper]()
 
-**A Survey on LLM-generated Text Detection: Necessity, Methods, and Future Directions** \
-*Wu, Junchao and others* \
-arXiv 2023. [Paper]()
+**A Survey on LLM-generated Text Detection: Necessity, Methods, and Future Directions**  [Paper]()
 
-**Towards possibilities \& impossibilities of ai-generated text detection: A survey** \
-*Ghosal, Soumya Suvra and others* \
-arXiv 2023. [Paper]()
+**Towards possibilities \& impossibilities of ai-generated text detection: A survey**  [Paper]()
 
-**Machine-generated text: A comprehensive survey of threat models and detection methods** \
-*Crothers, Evan and others* \
-IEEE Access 2023. [Paper]()
+**Machine-generated text: A comprehensive survey of threat models and detection methods** [Paper]()
 
-**The Age of Synthetic Realities: Challenges and Opportunities** \
-*Cardenuto, Jo&tilde;ao Phillipe and others* \
-arXiv 2023. [Paper]()
+**The Age of Synthetic Realities: Challenges and Opportunities** [Paper]()
 
-**GenAI against humanity: Nefarious applications of generative artificial intelligence and large language models** \
-*Ferrara, Emilio* \
-arXiv 2023. [Paper]()
+**GenAI against humanity: Nefarious applications of generative artificial intelligence and large language models** [Paper]()
 
 ## News articles necessitating detection of LAM-generated Multimedia
 

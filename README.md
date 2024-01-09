@@ -150,3 +150,32 @@ If you find our survey useful for your research, please cite the following paper
 | **Multi-modal** | COCOFake | General | [Link](https://github.com/aimagelab/ELSA_COCO-Fake) | T2T/T2I | 113,287 | 566,435 | COCO | SDMs | 2023 |
 
 
+## Detection
+### Text
+#### Pure Detection
+
+**Release strategies and the social impacts of language models**  [Paper]()
+
+**Defending against neural fake news**  [Paper]()
+
+**Real or fake? learning to discriminate machine from human generated text**  [Paper]()
+
+##### Watermarking
+
+**Distillation-Resistant Watermarking for Model Protection in {NLP}**  [Paper]()
+
+**Three bricks to consolidate watermarks for large language models**  [Paper]()
+
+**Robust multi-bit natural language watermarking through invariant features**  [Paper]()
+
+**Undetectable Watermarks for Language Models**  [Paper]()
+
+**Robust distortion-free watermarks for language models**  [Paper]()
+
+**Provable robust watermarking for ai-generated text**  [Paper]()
+
+**A Private Watermark for Large Language Models**  [Paper]()
+
+##### Artifacts
+
+**A Private Watermark for Large Language Models**  [Paper]()

@@ -177,13 +177,11 @@ If you find our survey useful for your research, please cite the following paper
 
 
 #### Artifacts
------------
 
 - Unraveling the mystery of artifacts in machine generated text  [Paper]()
 
 
 #### Stylometry/Coherence
------------
 
 - Stylometric detection of ai-generated text in twitter timelines  [Paper]()
 

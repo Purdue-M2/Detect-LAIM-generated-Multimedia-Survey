@@ -275,3 +275,88 @@ Conda: Contrastive domain adaptation for ai-generated text detection [Paper]()
 -----------
 
 DNA-GPT: Divergent N-Gram Analysis for Training-Free Detection of GPT-Generated Text [Paper]()
+
+
+#### P-values
+-----------
+
+A Watermark for Large Language Models [Paper]()
+
+
+#### Shapley Additive Explanations
+-----------
+
+Chatgpt or human? detect and explain. explaining decisions of machine learning model for detecting short chatgpt-generated text [Paper]()
+
+Check Me If You Can: Detecting ChatGPT-Generated Academic Writing using CheckGPT [Paper]()
+
+
+#### Shapley Additive Explanations
+-----------
+
+Is chatgpt involved in texts? measure the polish ratio to detect chatgpt-generated text [Paper]()
+
+
+### Robustness
+-----------
+#### Adversarial Data Augmentation
+-----------
+
+Is chatgpt involved in texts? measure the polish ratio to detect chatgpt-generated text [Paper]()
+
+Red Teaming Language Model Detectors with Language Models [Paper]()
+
+MGTBench: Benchmarking Machine-Generated Text Detection [Paper]()
+
+
+#### Adversarial Learning
+-----------
+
+Radar: Robust ai-text detection via adversarial learning [Paper]()
+
+Outfox: Llm-generated essay detection through in-context learning with adversarially generated examples [Paper]()
+
+
+#### Stylistic/Consistency
+-----------
+
+J-guard: Journalism guided adversarially robust detection of ai-generated news [Paper]()
+
+Intrinsic Dimension Estimation for Robust Detection of AI-Generated Texts [Paper]()
+
+
+### Empirical Study
+-----------
+#### Generalization/Robustness
+-----------
+
+ChatLog: Recording and Analyzing ChatGPT Across Time [Paper]()
+
+On the Zero-Shot Generalization of Machine-Generated Text Detectors [Paper]()
+
+On the Generalization of Training-based ChatGPT Detection Methods [Paper]()
+
+Supervised Machine-Generated Text Detectors: Family and Scale Matters [Paper]()
+
+Deepfake Text Detection in the Wild [Paper]()
+
+
+#### Human Evaluation
+-----------
+
+How close is chatgpt to human experts? comparison corpus, evaluation, and detection [Paper]()
+
+
+#### Attribution
+-----------
+
+From Text to Source: Results in Detecting Large Language Model-Generated Content [Paper]()
+
+
+#### Paraphrase Detection
+-----------
+
+How large language models are transforming machine-paraphrased plagiarism  [Paper]()
+
+Paraphrase Detection: Human vs. Machine Content [Paper]()
+

@@ -30,6 +30,57 @@ If you find our survey useful for your research, please cite the following paper
                 - [Perplexity](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-perplexity)
                 - [Log Probabilities Curvature](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-log-probabilities-curvature)
                 - [Efficient Perturbations](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-efficient-perturbations)
+        - [Beyond Detection](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#beyond-detection)
+            - [Attribution](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-attribution)
+                - [Deep-learning Based](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-deep-learning-based)
+                - [Stylometric/Statistical](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-stylometricstatistical)
+                - [Perplexity](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-perplexity-1)
+                - [Origin Tracing](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-origin-tracing)
+            - [Generalization](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-generalization)
+                - [Structured Search](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-structured-search)
+                - [Contrastive Learning](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-contrastive-learning)
+            - [Interpretability](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-interpretability)
+                - [N-gram Overlaps](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-n-gram-overlaps)
+                - [P-values](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-p-values)
+                - [Shapley Additive Explanations](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-shapley-additive-explanations)
+                - [Shapley Additive Explanations](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-shapley-additive-explanations-1)
+            - [Robustness](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-robustness)
+                - [Adversarial Data Augmentation](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-adversarial-data-augmentation)
+                - [Adversarial Learning](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-adversarial-learning)
+                - [Stylistic/Consistency](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-stylisticconsistency)
+            - [Empirical Study](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-empirical-study)
+                - [Generalization/Robustness](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-generalizationrobustness)
+                - [Human Evaluation](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-human-evaluation)
+                - [Attribution](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-attribution-1)
+                - [Paraphrase Detection](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-paraphrase-detection)
+    - [Image](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#--image-)
+        - [Pure Detection](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#pure-detection-1)
+            - [Physical/Physiological based Methods](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-physicalphysiological-based-methods)
+            - [Diffuser Fingerprints based Methods](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-diffuser-fingerprints-based-methods)
+            - [Spatial-based Methods](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-spatial-based-methods)
+            - [Frequency-based Methods](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-frequency-based-methods)
+        - [Beyond Detection](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#beyond-detection-1)
+            - [Attribution and Model Parsing](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-attribution-and-model-parsing)
+                - Attribution
+                - [Model Parsing](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-model-parsing-1)
+            - [Generalization](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-generalization-1)
+            - [Interpretability](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-interpretability-1)
+            - [Localization](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-localization)
+                - [Fully-supervised](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-fully-supervised)
+                - [Weakly-supervised](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-weakly-supervised)
+            - [Robustness](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-robustness-1)
+                - [Spatial-based](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-spatial-based)
+                - [Frequency-based](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-frequency-based)
+            - [Empirical Study](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-empirical-study-1)
+    - [Video](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-video)
+        - [Beyond Detection](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#beyond-detection-2)
+            - [Generalization](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-generalization-2)
+    - [Audio](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#-audio)
+        - [Pure Detection](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#pure-detection-2)
+            - [Vocoder-based](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-vocoder-based)
+    - Multimodal
+        - [Pure Detection](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#pure-detection-3)
+            - 
 
 ## 📈 Related Work
 
@@ -381,7 +432,7 @@ If you find our survey useful for your research, please cite the following paper
 
 ### Beyond Detection
 #### &nbsp;&nbsp;♣️ Attribution and Model Parsing
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Model Parsing
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Attribution
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Level up the deepfake detection: a method to effectively discriminate images generated by gan architectures and diffusion models [Paper]()
 

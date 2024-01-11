@@ -98,11 +98,11 @@ If you find our survey useful for your research, please cite the following paper
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - A Survey on Detection of LLMs-Generated Content  [Paper](https://arxiv.org/pdf/2310.15654v1.pdf) [GitHub](https://github.com/xianjun-yang/awesome_papers_on_llms_detection)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - A Survey on LLM-generated Text Detection: Necessity, Methods, and Future Directions**  [Paper](https://arxiv.org/abs/2310.14724) [GitHub](https://github.com/NLP2CT/LLM-generated-Text-Detection)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - A Survey on LLM-generated Text Detection: Necessity, Methods, and Future Directions  [Paper](https://arxiv.org/abs/2310.14724) [GitHub](https://github.com/NLP2CT/LLM-generated-Text-Detection)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Towards possibilities \& impossibilities of ai-generated text detection: A survey  [Paper](https://arxiv.org/pdf/2310.15264.pdf)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Machine-generated text: A comprehensive survey of threat models and detection methods [Paper](https://arxiv.org/abs/2210.07321)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Machine-generated text: A comprehensive survey of threat models and detection methods [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10177704)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - The Age of Synthetic Realities: Challenges and Opportunities [Paper](https://arxiv.org/abs/2306.11503)
 
@@ -232,11 +232,11 @@ If you find our survey useful for your research, please cite the following paper
 #### &nbsp;&nbsp;♣️ Easy Explainable Methods
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Watermarking
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Distillation-Resistant Watermarking for Model Protection in NLP  [Paper](https://arxiv.org/abs/2210.03312)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Distillation-Resistant Watermarking for Model Protection in NLP  [Paper](https://aclanthology.org/2022.findings-emnlp.370.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Three bricks to consolidate watermarks for large language models  [Paper](https://arxiv.org/abs/2308.00113) [GitHub](https://github.com/facebookresearch/three_bricks)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Robust multi-bit natural language watermarking through invariant features  [Paper](https://arxiv.org/abs/2305.01904)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Robust multi-bit natural language watermarking through invariant features  [Paper](https://aclanthology.org/2023.acl-long.117.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Undetectable Watermarks for Language Models  [Paper](https://arxiv.org/pdf/2306.09194.pdf)
 
@@ -256,7 +256,7 @@ If you find our survey useful for your research, please cite the following paper
     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Stylometric detection of ai-generated text in twitter timelines  [Paper](https://arxiv.org/abs/2303.03697)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - CoCo: Coherence-Enhanced Machine-Generated Text Detection Under Data Limitation With Contrastive Learning [Paper](https://arxiv.org/abs/2212.10341)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - CoCo: Coherence-Enhanced Machine-Generated Text Detection Under Data Limitation With Contrastive Learning [Paper](https://aclanthology.org/2023.emnlp-main.1005/)
 
 
 #### &nbsp;&nbsp;♣️ Hard Explainable Methods
@@ -269,7 +269,7 @@ If you find our survey useful for your research, please cite the following paper
 
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Log Probabilities Curvature
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Detectgpt: Zero-shot machine-generated text detection using probability curvature [Paper](https://arxiv.org/abs/2301.11305) [GitHub](https://github.com/eric-mitchell/detect-gpt)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Detectgpt: Zero-shot machine-generated text detection using probability curvature [Paper](https://dl.acm.org/doi/10.5555/3618408.3619446) [GitHub](https://github.com/eric-mitchell/detect-gpt)
 
 
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Efficient Perturbations

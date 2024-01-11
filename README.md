@@ -96,17 +96,17 @@ If you find our survey useful for your research, please cite the following paper
 
 ## 📈 Related Work
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - A Survey on Detection of LLMs-Generated Content  [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - A Survey on Detection of LLMs-Generated Content  [Paper](https://arxiv.org/pdf/2310.15654v1.pdf) [GitHub](https://github.com/xianjun-yang/awesome_papers_on_llms_detection)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - A Survey on LLM-generated Text Detection: Necessity, Methods, and Future Directions**  [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - A Survey on LLM-generated Text Detection: Necessity, Methods, and Future Directions**  [Paper](https://arxiv.org/abs/2310.14724) [GitHub](https://github.com/NLP2CT/LLM-generated-Text-Detection)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Towards possibilities \& impossibilities of ai-generated text detection: A survey  [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Towards possibilities \& impossibilities of ai-generated text detection: A survey  [Paper](https://arxiv.org/pdf/2310.15264.pdf)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Machine-generated text: A comprehensive survey of threat models and detection methods [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Machine-generated text: A comprehensive survey of threat models and detection methods [Paper](https://arxiv.org/abs/2210.07321)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - The Age of Synthetic Realities: Challenges and Opportunities [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - The Age of Synthetic Realities: Challenges and Opportunities [Paper](https://arxiv.org/abs/2306.11503)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - GenAI against humanity: Nefarious applications of generative artificial intelligence and large language models [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - GenAI against humanity: Nefarious applications of generative artificial intelligence and large language models [Paper](https://arxiv.org/abs/2310.00737)
 
 ## :newspaper: News Articles
 

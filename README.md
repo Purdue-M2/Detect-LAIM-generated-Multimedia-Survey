@@ -61,7 +61,7 @@ If you find our survey useful for your research, please cite the following paper
             - [Frequency-based Methods](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-frequency-based-methods)
         - [Beyond Detection](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#beyond-detection-1)
             - [Attribution and Model Parsing](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-attribution-and-model-parsing)
-                - Attribution
+                - [Attribution](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-attribution-2)
                 - [Model Parsing](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-model-parsing-1)
             - [Generalization](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-generalization-1)
             - [Interpretability](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-interpretability-1)
@@ -78,9 +78,21 @@ If you find our survey useful for your research, please cite the following paper
     - [Audio](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#-audio)
         - [Pure Detection](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#pure-detection-2)
             - [Vocoder-based](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-vocoder-based)
-    - Multimodal
+    - [Multimodal](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#-multimodal)
         - [Pure Detection](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#pure-detection-3)
-            - 
+            - [Text-assisted](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-text-assisted)
+            - [Text-image Inconsistency](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-text-image-inconsistency)
+        - [Beyond Detection](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#beyond-detection-3)
+            - [Attribution](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-attribution-3)
+            - [Generalization](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-generalization-3)
+                - [Prompt Tuning](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-prompt-tuning)
+                - [Contrastive Learning](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-contrastive-learning-1)
+            - [Interpretability](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-interpretability-2)
+            - [Localization](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-localization-1)
+                - [Spatial-based](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-spatial-based-1)
+                - [Frequency-based](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-frequency-based-1)
+            - [Empirical Study](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-empirical-study-2)
+- [Detection Tools](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#detection-tools)
 
 ## 📈 Related Work
 

@@ -20,6 +20,16 @@ If you find our survey useful for your research, please cite the following paper
 - [News articles](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#news-articles-necessitating-detection-of-lam-generated-multimedia)
 - [Public Datasets for Detection](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#public-datasets-generated-by-lams)
 - [Detection](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md)
+    - [Text](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#page_facing_up-text-)
+        - [Pure Detection](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#pure-detection)
+            - [Easy Explainable Methods](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-easy-explainable-methods)
+                - [Watermarking](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-watermarking)
+                - [Artifacts](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-artifacts)
+                - [Stylometry/Coherence](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-stylometrycoherence)
+            - [Hard Explainable Methods](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-hard-explainable-methods)
+                - [Perplexity](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-perplexity)
+                - [Log Probabilities Curvature](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-log-probabilities-curvature)
+                - [Efficient Perturbations](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-efficient-perturbations)
 
 ## 📈 Related Work
 

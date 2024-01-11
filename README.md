@@ -232,17 +232,17 @@ If you find our survey useful for your research, please cite the following paper
 #### &nbsp;&nbsp;♣️ Easy Explainable Methods
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Watermarking
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Distillation-Resistant Watermarking for Model Protection in NLP  [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Distillation-Resistant Watermarking for Model Protection in NLP  [Paper](https://arxiv.org/abs/2210.03312)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Three bricks to consolidate watermarks for large language models  [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Three bricks to consolidate watermarks for large language models  [Paper](https://arxiv.org/abs/2308.00113) [GitHub](https://github.com/facebookresearch/three_bricks)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Robust multi-bit natural language watermarking through invariant features  [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Robust multi-bit natural language watermarking through invariant features  [Paper](https://arxiv.org/abs/2305.01904)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Undetectable Watermarks for Language Models  [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Undetectable Watermarks for Language Models  [Paper](https://arxiv.org/pdf/2306.09194.pdf)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Robust distortion-free watermarks for language models  [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Robust distortion-free watermarks for language models  [Paper](https://arxiv.org/abs/2307.15593)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Provable robust watermarking for ai-generated text  [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Provable robust watermarking for ai-generated text  [Paper](https://arxiv.org/abs/2306.17439) [GitHub](https://github.com/XuandongZhao/Unigram-Watermark)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - A Private Watermark for Large Language Models  [Paper]()
     

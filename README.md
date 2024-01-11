@@ -23,17 +23,17 @@ If you find our survey useful for your research, please cite the following paper
 ## Related work
 -----------
 
-- A Survey on Detection of LLMs-Generated Content  [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - A Survey on Detection of LLMs-Generated Content  [Paper]()
 
-- A Survey on LLM-generated Text Detection: Necessity, Methods, and Future Directions**  [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - A Survey on LLM-generated Text Detection: Necessity, Methods, and Future Directions**  [Paper]()
 
-- Towards possibilities \& impossibilities of ai-generated text detection: A survey  [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Towards possibilities \& impossibilities of ai-generated text detection: A survey  [Paper]()
 
-- Machine-generated text: A comprehensive survey of threat models and detection methods [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Machine-generated text: A comprehensive survey of threat models and detection methods [Paper]()
 
-- The Age of Synthetic Realities: Challenges and Opportunities [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - The Age of Synthetic Realities: Challenges and Opportunities [Paper]()
 
-- GenAI against humanity: Nefarious applications of generative artificial intelligence and large language models [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - GenAI against humanity: Nefarious applications of generative artificial intelligence and large language models [Paper]()
 
 ## :newspaper: News articles necessitating detection of LAM-generated Multimedia
 -----------
@@ -154,374 +154,375 @@ If you find our survey useful for your research, please cite the following paper
 
 
 ## :mag_right: Detection :fire:
-### :page_facing_up: Text
+
+### <p align="center">:page_facing_up: Text </p>
 -----------
 ### Pure Detection
-#### ♣️ Easy Explainable Methods
-##### ▶️ Watermarking
+#### &nbsp;&nbsp;♣️ Easy Explainable Methods
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Watermarking
 
-- Distillation-Resistant Watermarking for Model Protection in NLP  [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Distillation-Resistant Watermarking for Model Protection in NLP  [Paper]()
 
-- Three bricks to consolidate watermarks for large language models  [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Three bricks to consolidate watermarks for large language models  [Paper]()
 
-- Robust multi-bit natural language watermarking through invariant features  [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Robust multi-bit natural language watermarking through invariant features  [Paper]()
 
-- Undetectable Watermarks for Language Models  [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Undetectable Watermarks for Language Models  [Paper]()
 
-- Robust distortion-free watermarks for language models  [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Robust distortion-free watermarks for language models  [Paper]()
 
-- Provable robust watermarking for ai-generated text  [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Provable robust watermarking for ai-generated text  [Paper]()
 
-- A Private Watermark for Large Language Models  [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - A Private Watermark for Large Language Models  [Paper]()
     
     
-##### ▶️ Artifacts
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Artifacts
     
-- Unraveling the mystery of artifacts in machine generated text  [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Unraveling the mystery of artifacts in machine generated text  [Paper]()
     
     
-##### ▶️ Stylometry/Coherence
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Stylometry/Coherence
     
-- Stylometric detection of ai-generated text in twitter timelines  [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Stylometric detection of ai-generated text in twitter timelines  [Paper]()
 
-- CoCo: Coherence-Enhanced Machine-Generated Text Detection Under Data Limitation With Contrastive Learning [Paper]()
-
-
-#### ♣️ Hard Explainable Methods
-##### ▶️ Perplexity
-
-- HowkGPT: Investigating the Detection of ChatGPT-generated University Student Homework through Context-Aware Perplexity Analysis  [Paper]()
-
-- GPTZero [Tool](https://gptzero.me/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - CoCo: Coherence-Enhanced Machine-Generated Text Detection Under Data Limitation With Contrastive Learning [Paper]()
 
 
-##### ▶️ Log Probabilities Curvature
+#### &nbsp;&nbsp;♣️ Hard Explainable Methods
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Perplexity
 
-- Detectgpt: Zero-shot machine-generated text detection using probability curvature [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - HowkGPT: Investigating the Detection of ChatGPT-generated University Student Homework through Context-Aware Perplexity Analysis  [Paper]()
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - GPTZero [Tool](https://gptzero.me/)
 
 
-##### ▶️ Efficient Perturbations
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Log Probabilities Curvature
 
-- Efficient Detection of LLM-generated Texts with a Bayesian Surrogate Model [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Detectgpt: Zero-shot machine-generated text detection using probability curvature [Paper]()
 
-- Fast-DetectGPT: Efficient Zero-Shot Detection of Machine-Generated Text via Conditional Probability Curvature [Paper]()
 
-- DetectLLM: Leveraging Log Rank Information for Zero-Shot Detection of Machine-Generated Text [Paper]()
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Efficient Perturbations
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Efficient Detection of LLM-generated Texts with a Bayesian Surrogate Model [Paper]()
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Fast-DetectGPT: Efficient Zero-Shot Detection of Machine-Generated Text via Conditional Probability Curvature [Paper]()
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - DetectLLM: Leveraging Log Rank Information for Zero-Shot Detection of Machine-Generated Text [Paper]()
 
 
 ### Beyond Detection
-#### ♣️ Attribution
-##### ▶️ Deep-learning Based
+#### &nbsp;&nbsp;♣️ Attribution
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Deep-learning Based
 
 
-- TURINGBENCH: A Benchmark Environment for Turing Test in the Age of Neural Text Generation [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - TURINGBENCH: A Benchmark Environment for Turing Test in the Age of Neural Text Generation [Paper]()
 
-- Whodunit? Learning to Contrast for Authorship Attribution [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Whodunit? Learning to Contrast for Authorship Attribution [Paper]()
 
-- Through the looking glass: Learning to attribute synthetic text generated by language models [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Through the looking glass: Learning to attribute synthetic text generated by language models [Paper]()
 
-- TopRoBERTa: Topology-Aware Authorship Attribution of Deepfake Texts [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - TopRoBERTa: Topology-Aware Authorship Attribution of Deepfake Texts [Paper]()
 
 
-##### ▶️ Stylometric/Statistical
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Stylometric/Statistical
 
-- Authorship attribution for neural text generation [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Authorship attribution for neural text generation [Paper]()
 
-- Gpt-who: An information density-based machine-generated text detector [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Gpt-who: An information density-based machine-generated text detector [Paper]()
 
 
-##### ▶️ Perplexity
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Perplexity
 
-- LLMDet: A Third Party Large Language Models Generated Text Detection Tool [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - LLMDet: A Third Party Large Language Models Generated Text Detection Tool [Paper]()
 
 
-##### ▶️ Origin Tracing
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Origin Tracing
 
-- Origin Tracing and Detecting of LLMs [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Origin Tracing and Detecting of LLMs [Paper]()
 
 
-#### ♣️ Generalization
-##### ▶️ Structured Search
+#### &nbsp;&nbsp;♣️ Generalization
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Structured Search
 
-- Ghostbuster: Detecting Text Ghostwritten by Large Language Models [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Ghostbuster: Detecting Text Ghostwritten by Large Language Models [Paper]()
 
 
-##### ▶️ Contrastive Learning
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Contrastive Learning
 
-- Conda: Contrastive domain adaptation for ai-generated text detection [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Conda: Contrastive domain adaptation for ai-generated text detection [Paper]()
 
 
-#### ♣️ Interpretability
-##### ▶️ N-gram Overlaps
+#### &nbsp;&nbsp;♣️ Interpretability
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ N-gram Overlaps
 
-- DNA-GPT: Divergent N-Gram Analysis for Training-Free Detection of GPT-Generated Text [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - DNA-GPT: Divergent N-Gram Analysis for Training-Free Detection of GPT-Generated Text [Paper]()
 
 
-##### ▶️ P-values
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ P-values
 
-- A Watermark for Large Language Models [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - A Watermark for Large Language Models [Paper]()
 
 
-##### ▶️ Shapley Additive Explanations
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Shapley Additive Explanations
 
-- Chatgpt or human? detect and explain. explaining decisions of machine learning model for detecting short chatgpt-generated text [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Chatgpt or human? detect and explain. explaining decisions of machine learning model for detecting short chatgpt-generated text [Paper]()
 
-- Check Me If You Can: Detecting ChatGPT-Generated Academic Writing using CheckGPT [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Check Me If You Can: Detecting ChatGPT-Generated Academic Writing using CheckGPT [Paper]()
 
 
-##### ▶️ Shapley Additive Explanations
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Shapley Additive Explanations
 
-- Is chatgpt involved in texts? measure the polish ratio to detect chatgpt-generated text [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Is chatgpt involved in texts? measure the polish ratio to detect chatgpt-generated text [Paper]()
 
 
-#### ♣️ Robustness
-##### ▶️ Adversarial Data Augmentation
+#### &nbsp;&nbsp;♣️ Robustness
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Adversarial Data Augmentation
 
-- Is chatgpt involved in texts? measure the polish ratio to detect chatgpt-generated text [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Is chatgpt involved in texts? measure the polish ratio to detect chatgpt-generated text [Paper]()
 
-- Red Teaming Language Model Detectors with Language Models [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Red Teaming Language Model Detectors with Language Models [Paper]()
 
-- MGTBench: Benchmarking Machine-Generated Text Detection [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - MGTBench: Benchmarking Machine-Generated Text Detection [Paper]()
 
 
-##### ▶️ Adversarial Learning
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Adversarial Learning
 
-- Radar: Robust ai-text detection via adversarial learning [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Radar: Robust ai-text detection via adversarial learning [Paper]()
 
-- Outfox: Llm-generated essay detection through in-context learning with adversarially generated examples [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Outfox: Llm-generated essay detection through in-context learning with adversarially generated examples [Paper]()
 
 
-##### ▶️ Stylistic/Consistency
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Stylistic/Consistency
 
-- J-guard: Journalism guided adversarially robust detection of ai-generated news [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - J-guard: Journalism guided adversarially robust detection of ai-generated news [Paper]()
 
-- Intrinsic Dimension Estimation for Robust Detection of AI-Generated Texts [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Intrinsic Dimension Estimation for Robust Detection of AI-Generated Texts [Paper]()
 
 
-#### ♣️ Empirical Study
-##### ▶️ Generalization/Robustness
+#### &nbsp;&nbsp;♣️ Empirical Study
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Generalization/Robustness
 
-- ChatLog: Recording and Analyzing ChatGPT Across Time [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ChatLog: Recording and Analyzing ChatGPT Across Time [Paper]()
 
-- On the Zero-Shot Generalization of Machine-Generated Text Detectors [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - On the Zero-Shot Generalization of Machine-Generated Text Detectors [Paper]()
 
-- On the Generalization of Training-based ChatGPT Detection Methods [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - On the Generalization of Training-based ChatGPT Detection Methods [Paper]()
 
-- Supervised Machine-Generated Text Detectors: Family and Scale Matters [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Supervised Machine-Generated Text Detectors: Family and Scale Matters [Paper]()
 
-- Deepfake Text Detection in the Wild [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Deepfake Text Detection in the Wild [Paper]()
 
 
-##### ▶️ Human Evaluation
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Human Evaluation
 
-- How close is chatgpt to human experts? comparison corpus, evaluation, and detection [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - How close is chatgpt to human experts? comparison corpus, evaluation, and detection [Paper]()
 
 
-##### ▶️ Attribution
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Attribution
 
-- From Text to Source: Results in Detecting Large Language Model-Generated Content [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - From Text to Source: Results in Detecting Large Language Model-Generated Content [Paper]()
 
 
-##### ▶️ Paraphrase Detection
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Paraphrase Detection
 
-- How large language models are transforming machine-paraphrased plagiarism  [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - How large language models are transforming machine-paraphrased plagiarism  [Paper]()
 
-- Paraphrase Detection: Human vs. Machine Content [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Paraphrase Detection: Human vs. Machine Content [Paper]()
 
 
-### 📸 Image
+### <p align="center"> 📸 Image </p>
 -----------
 ###  Pure Detection
-#### ♣️ Physical/Physiological based Methods
+#### &nbsp;&nbsp;♣️ Physical/Physiological based Methods
 
-- Qualitative Failures of Image Generation Models and Their Application in Detecting Deepfakes [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Qualitative Failures of Image Generation Models and Their Application in Detecting Deepfakes [Paper]()
 
-- Perspective (in) consistency of paint by text [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Perspective (in) consistency of paint by text [Paper]()
 
-- Lighting (in) consistency of paint by text [Paper]()
-
-
-#### ♣️ Diffuser Fingerprints based Methods
-
-- Deep Image Fingerprint: Accurate And Low Budget Synthetic Image Detector [Paper]()
-
-- DIRE for Diffusion-Generated Image Detection [Paper]()
-
-- Exposing the Fake: Effective Diffusion-Generated Images Detection [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Lighting (in) consistency of paint by text [Paper]()
 
 
-#### ♣️ Spatial-based Methods
+#### &nbsp;&nbsp;♣️ Diffuser Fingerprints based Methods
 
-- Rich and Poor Texture Contrast: A Simple yet Effective Approach for AI-generated Image Detection [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Deep Image Fingerprint: Accurate And Low Budget Synthetic Image Detector [Paper]()
 
-- Unmasking The Artist: Discriminating Human-Drawn And AI-Generated Human Face Art Through Facial Feature Analysis [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - DIRE for Diffusion-Generated Image Detection [Paper]()
 
-- Detecting images generated by deep diffusion models using their local intrinsic dimensionality [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Exposing the Fake: Effective Diffusion-Generated Images Detection [Paper]()
 
 
-#### ♣️ Frequency-based Methods
+#### &nbsp;&nbsp;♣️ Spatial-based Methods
 
-- Wavelet-packets for deepfake image analysis and detection [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Rich and Poor Texture Contrast: A Simple yet Effective Approach for AI-generated Image Detection [Paper]()
 
-- AUSOME: authenticating social media images using frequency analysis [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Unmasking The Artist: Discriminating Human-Drawn And AI-Generated Human Face Art Through Facial Feature Analysis [Paper]()
 
-- AI-Generated Image Detection using a Cross-Attention Enhanced Dual-Stream Network [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Detecting images generated by deep diffusion models using their local intrinsic dimensionality [Paper]()
 
-- Synthbuster: Towards Detection of Diffusion Model Generated Images [Paper]()
+
+#### &nbsp;&nbsp;♣️ Frequency-based Methods
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Wavelet-packets for deepfake image analysis and detection [Paper]()
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - AUSOME: authenticating social media images using frequency analysis [Paper]()
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - AI-Generated Image Detection using a Cross-Attention Enhanced Dual-Stream Network [Paper]()
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Synthbuster: Towards Detection of Diffusion Model Generated Images [Paper]()
 
 
 ### Beyond Detection
-#### ♣️ Attribution and Model Parsing
-##### ▶️ Model Parsing
+#### &nbsp;&nbsp;♣️ Attribution and Model Parsing
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Model Parsing
 
-- Level up the deepfake detection: a method to effectively discriminate images generated by gan architectures and diffusion models [Paper]()
-
-
-##### ▶️ Model Parsing
-
-- Reverse engineering of generative models: Inferring model hyperparameters from generated images [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Level up the deepfake detection: a method to effectively discriminate images generated by gan architectures and diffusion models [Paper]()
 
 
-#### ♣️ Generalization
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Model Parsing
 
-- Online Detection of AI-Generated Images [Paper]()
-
-- Towards universal fake image detectors that generalize across generative models [Paper]()
-
-- Raising the Bar of AI-generated Image Detection with CLIP [Paper]()
-
-- Transcending Forgery Specificity with Latent Space Augmentation for Generalizable Deepfake Detection [Paper]()
-
-- Fingerprintnet: Synthesized fingerprints for generated image detection [Paper]()
-
-- Detecting Deepfakes Without Seeing Any [Paper]()
-
-- Improving Synthetically Generated Image Detection in Cross-Concept Settings [Paper]()
-
-- Diffusion Noise Feature: Accurate and Fast Generated Image Detection [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Reverse engineering of generative models: Inferring model hyperparameters from generated images [Paper]()
 
 
-#### ♣️ Interpretability
+#### &nbsp;&nbsp;♣️ Generalization
 
-- Interpretable-through-prototypes deepfake detection for diffusion models [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Online Detection of AI-Generated Images [Paper]()
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Towards universal fake image detectors that generalize across generative models [Paper]()
 
-#### ♣️ Localization
-##### ▶️ Fully-supervised
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Raising the Bar of AI-generated Image Detection with CLIP [Paper]()
 
-- Hierarchical fine-grained image forgery detection and localization [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Transcending Forgery Specificity with Latent Space Augmentation for Generalizable Deepfake Detection [Paper]()
 
-- Perceptual Artifacts Localization for Image Synthesis Tasks [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Fingerprintnet: Synthesized fingerprints for generated image detection [Paper]()
 
-- TruFor: Leveraging all-round clues for trustworthy image forgery detection and localization [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Detecting Deepfakes Without Seeing Any [Paper]()
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Improving Synthetically Generated Image Detection in Cross-Concept Settings [Paper]()
 
-##### ▶️ Weakly-supervised
-
-- Weakly-supervised deepfake localization in diffusion-generated images  [Paper]()
-
-
-#### ♣️ Robustness
-##### ▶️ Spatial-based
-
-- Unveiling the Impact of Image Transformations on Deepfake Detection: An Experimental Analysis  [Paper]()
-
-- GLFF: Global and Local Feature Fusion for AI-synthesized Image Detection  [Paper]()
-
-- Exposing fake images generated by text-to-image diffusion models  [Paper]()
-
-- Local Statistics for Generative Image Detection  [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Diffusion Noise Feature: Accurate and Fast Generated Image Detection [Paper]()
 
 
-##### ▶️ Frequency-based
+#### &nbsp;&nbsp;♣️ Interpretability
 
-- D4: Detection of Adversarial Diffusion Deepfakes Using Disjoint Ensembles [Paper]()
-
-
-#### ♣️ Empirical Study
-
-- On the detection of synthetic images generated by diffusion models [Paper]()
-
-- Intriguing properties of synthetic images: from generative adversarial networks to diffusion models [Paper]()
-
-- Towards the detection of diffusion model deepfakes [Paper]()
-
-- On the use of Stable Diffusion for creating realistic faces: from generation to detection [Paper]()
-
-- Finding AI-Generated Faces in the Wild [Paper]()
-
-- Forensic analysis of synthetically generated western blot images [Paper]()
-
-- Beyond Human Forgeries: An Investigation into Detecting Diffusion-Generated Handwriting [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Interpretable-through-prototypes deepfake detection for diffusion models [Paper]()
 
 
-### 🎞️ Video
+#### &nbsp;&nbsp;♣️ Localization
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Fully-supervised
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Hierarchical fine-grained image forgery detection and localization [Paper]()
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Perceptual Artifacts Localization for Image Synthesis Tasks [Paper]()
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - TruFor: Leveraging all-round clues for trustworthy image forgery detection and localization [Paper]()
+
+
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Weakly-supervised
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Weakly-supervised deepfake localization in diffusion-generated images  [Paper]()
+
+
+#### &nbsp;&nbsp;♣️ Robustness
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Spatial-based
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Unveiling the Impact of Image Transformations on Deepfake Detection: An Experimental Analysis  [Paper]()
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - GLFF: Global and Local Feature Fusion for AI-synthesized Image Detection  [Paper]()
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Exposing fake images generated by text-to-image diffusion models  [Paper]()
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Local Statistics for Generative Image Detection  [Paper]()
+
+
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Frequency-based
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - D4: Detection of Adversarial Diffusion Deepfakes Using Disjoint Ensembles [Paper]()
+
+
+#### &nbsp;&nbsp;♣️ Empirical Study
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - On the detection of synthetic images generated by diffusion models [Paper]()
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Intriguing properties of synthetic images: from generative adversarial networks to diffusion models [Paper]()
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Towards the detection of diffusion model deepfakes [Paper]()
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - On the use of Stable Diffusion for creating realistic faces: from generation to detection [Paper]()
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Finding AI-Generated Faces in the Wild [Paper]()
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Forensic analysis of synthetically generated western blot images [Paper]()
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Beyond Human Forgeries: An Investigation into Detecting Diffusion-Generated Handwriting [Paper]()
+
+
+### <p align="center">🎞️ Video</p>
 -----------
 #### Beyond Detection
-#### ♣️ Generalization
+#### &nbsp;&nbsp;♣️ Generalization
 
-- Revisiting Generalizability in Deepfake Detection: Improving Metrics and Stabilizing Transfer  [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Revisiting Generalizability in Deepfake Detection: Improving Metrics and Stabilizing Transfer  [Paper]()
 
 
-### 🎵 Audio
+### <p align="center">🎵 Audio</p>
 -----------
 ### Pure Detection
-#### ♣️ Vocoder-based
+#### &nbsp;&nbsp;♣️ Vocoder-based
 
-- AI-Synthesized Voice Detection Using Neural Vocoder Artifacts [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - AI-Synthesized Voice Detection Using Neural Vocoder Artifacts [Paper]()
 
 
-### 🍯 Multi-Modal
+### <p align="center">🍯 Multi-Modal</p>
 -----------
 ### Pure Detection
-#### ♣️ Text-assisted
+#### &nbsp;&nbsp;♣️ Text-assisted
 
-- Parents and Children: Distinguishing Multimodal DeepFakes from Natural Images [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Parents and Children: Distinguishing Multimodal DeepFakes from Natural Images [Paper]()
 
 
-#### ♣️ Text-image Inconsistency
+#### &nbsp;&nbsp;♣️ Text-image Inconsistency
 
-- Detecting cross-modal inconsistency to defend against neural fake news [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Detecting cross-modal inconsistency to defend against neural fake news [Paper]()
 
 
 ### Beyond Detection
-#### ♣️ Attribution
+#### &nbsp;&nbsp;♣️ Attribution
 
-- De-fake: Detection and attribution of fake images generated by text-to-image generation models [Paper]()
-
-
-#### ♣️ Generalization
-##### ▶️ Prompt Tuning
-
-- AntifakePrompt: Prompt-Tuned Vision-Language Models are Fake Image Detectors [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - De-fake: Detection and attribution of fake images generated by text-to-image generation models [Paper]()
 
 
-##### ▶️ Contrastive Learning
+#### &nbsp;&nbsp;♣️ Generalization
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Prompt Tuning
 
-- Generalizable Synthetic Image Detection via Language-guided Contrastive Learning [Paper]()
-
-
-#### ♣️ Interpretability
-
-- Combating Misinformation in the Era of Generative AI Models [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - AntifakePrompt: Prompt-Tuned Vision-Language Models are Fake Image Detectors [Paper]()
 
 
-#### ♣️ Localization
-##### ▶️ Spatial-based
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Contrastive Learning
 
-- Detecting and grounding multi-modal media manipulation [Paper]()
-
-- Exploiting Modality-Specific Features For Multi-Modal Manipulation Detection And Grounding [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Generalizable Synthetic Image Detection via Language-guided Contrastive Learning [Paper]()
 
 
-##### ▶️ Frequency-based
+#### &nbsp;&nbsp;♣️ Interpretability
 
-- Unified Frequency-Assisted Transformer Framework for Detecting and Grounding Multi-Modal Manipulation [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Combating Misinformation in the Era of Generative AI Models [Paper]()
 
 
-#### ♣️ Empirical Study
+#### &nbsp;&nbsp;♣️ Localization
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Spatial-based
 
-- Detecting Images Generated by Diffusers [Paper]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Detecting and grounding multi-modal media manipulation [Paper]()
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Exploiting Modality-Specific Features For Multi-Modal Manipulation Detection And Grounding [Paper]()
+
+
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Frequency-based
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Unified Frequency-Assisted Transformer Framework for Detecting and Grounding Multi-Modal Manipulation [Paper]()
+
+
+#### &nbsp;&nbsp;♣️ Empirical Study
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Detecting Images Generated by Diffusers [Paper]()
 
 
 ## Detection Tools

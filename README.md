@@ -575,6 +575,10 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 
 ### <p align="center">🎞️ Video</p>
 -----------
+<p align="center">
+  <img src="assets/Video Detection.png" alt="Video Detection">
+</p>
+
 ### Beyond Detection
 #### &nbsp;&nbsp;♣️ Generalization
 
@@ -583,6 +587,11 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 
 ### <p align="center">🎵 Audio</p>
 -----------
+<p align="center">
+  <img src="assets/Audio.png" alt="Audio Detection">
+  <figcaption>The artifacts introduced by the neural vocoders to a voice signal. The mel-spectrogram of the original (top left) and the self-vocoded voice signal (top right four). Their differences corresponding to the artifacts introduced by the vocoder are shown at the bottom </figcaption>
+</p>
+
 ### Pure Detection
 #### &nbsp;&nbsp;♣️ Vocoder-based
 
@@ -591,6 +600,10 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 
 ### <p align="center">🍯 Multimodal</p>
 -----------
+<p align="center">
+  <img src="assets/Multimodal.png" alt="Multimodal Detection">
+</p>
+
 ### Pure Detection
 #### &nbsp;&nbsp;♣️ Text-assisted
 

@@ -589,7 +589,6 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 -----------
 <p align="center">
   <img src="assets/Audio.png" alt="Audio Detection">
-  <figcaption>The artifacts introduced by the neural vocoders to a voice signal. The mel-spectrogram of the original (top left) and the self-vocoded voice signal (top right four). Their differences corresponding to the artifacts introduced by the vocoder are shown at the bottom </figcaption>
 </p>
 
 ### Pure Detection

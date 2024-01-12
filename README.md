@@ -25,7 +25,7 @@ If you find our survey useful for your research, please cite the following paper
 ## 💻 Contents
 - [Related Works](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#related-works)
 - [News articles](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#news-articles-necessitating-detection-of-lam-generated-multimedia)
-- [Public Datasets for Detection](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#public-datasets-generated-by-lams)
+- [Public Datasets for Detection](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#public-datasets-for-detection)
 - [Detection](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md)
     - [Text](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#page_facing_up-text-)
         - [Pure Detection](https://github.com/Purdue-M2/Detect-LAM-generated-Multimedia-Survey/blob/main/README.md#pure-detection)

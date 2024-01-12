@@ -424,6 +424,12 @@ If you find our survey useful for your research, please cite the following paper
 ### <p align="center"> 📸 Image </p>
 -----------
 ###  Pure Detection
+
+<figure>
+  <img src="assets/image_pure.png" alt="image_pure">
+  <figcaption style="text-align: center;">Illustrations of image pure detection methodologies. In (a) Physical/Physiological-based Methods, we show the examples of physical (first row left) cues, and physiological (first row right) cues for discerning DM-generated images from realistic ones. Image credit: <a href="https://arxiv.org/abs/2304.06470">Ali Borji</a> </figcaption>
+</figure>
+
 #### &nbsp;&nbsp;♣️ Physical/Physiological based Methods
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Qualitative Failures of Image Generation Models and Their Application in Detecting Deepfakes [Paper](https://arxiv.org/abs/2304.06470)
@@ -463,6 +469,12 @@ If you find our survey useful for your research, please cite the following paper
 
 
 ### Beyond Detection
+
+<figure>
+  <img src="assets/image_beyond.png" alt="image_beyond">
+  <figcaption style="text-align: center;">Illustrations of image beyond detection methodologies.</figcaption>
+</figure>
+
 #### &nbsp;&nbsp;♣️ Attribution and Model Parsing
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Attribution
 

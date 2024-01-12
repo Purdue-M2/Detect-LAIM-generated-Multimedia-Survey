@@ -186,6 +186,14 @@ If you find our survey useful for your research, please cite the following paper
 
 ##  Public Datasets for Detection
 
+Please read the column I20(Input-to-Output) with these abbreviations:  
+- T2T: Text-to-Text
+- V2T: Video-to-Text
+- T2I: Text-to-Image
+- I2I: Image-to-Image
+- T2A: Text-to-Audio
+- I.A2V: (Image conditioned with Audio)-to-Video
+
 | **Modality** | **Dataset** | **Content** | **Link** | **I2O** | **#Real** | **#Generated** | **Source of Real Media** | **Generation Method** | **Year** |
 |--------------|-------------|-------------|----------|---------|-----------|----------------|--------------------------|-----------------------|----------|
 | **Text** | Student Essays | Essays | [Link](https://github.com/vivek3141/ghostbuster) | T2T | 1,000 | 6,000 | IvyPanda | ChatGPT | 2023 |

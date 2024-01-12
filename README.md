@@ -237,6 +237,12 @@ If you find our survey useful for your research, please cite the following paper
 ### <p align="center">:page_facing_up: Text </p>
 -----------
 ### Pure Detection
+
+<figure>
+  <img src="assets/text_pure.png" alt="text_pure">
+  <figcaption style="text-align: center;">Illustrations of text pure detection methodologies.</figcaption>
+</figure>
+
 #### &nbsp;&nbsp;♣️ Easy Explainable Methods
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Watermarking
 
@@ -290,6 +296,12 @@ If you find our survey useful for your research, please cite the following paper
 
 
 ### Beyond Detection
+
+<figure>
+  <img src="assets/text_beyond.png" alt="text_beyond">
+  <figcaption style="text-align: center;">Illustrations of text beyond detection methodologies.</figcaption>
+</figure>
+
 #### &nbsp;&nbsp;♣️ Attribution
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Deep-learning Based
 

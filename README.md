@@ -597,6 +597,13 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 </p>
 
 ### Pure Detection
+
+<p align="center">
+  <img src="assets/pure_multimodal.png" alt="Multimodal Detection" height="300">
+
+  <span>Illustrations of pure detection methodologies for LAM-generated multimodal media</span>
+</p>
+
 #### &nbsp;&nbsp;♣️ Vocoder-based
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - AI-Synthesized Voice Detection Using Neural Vocoder Artifacts [Paper](https://openaccess.thecvf.com/content/CVPR2023W/WMF/papers/Sun_AI-Synthesized_Voice_Detection_Using_Neural_Vocoder_Artifacts_CVPRW_2023_paper.pdf) [GitHub](https://github.com/csun22/Synthetic-Voice-Detection-Vocoder-Artifacts)

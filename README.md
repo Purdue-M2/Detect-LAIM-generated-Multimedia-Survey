@@ -35,7 +35,7 @@ The Age of Synthetic Realities: Challenges and Opportunities [Paper]()
 
 GenAI against humanity: Nefarious applications of generative artificial intelligence and large language models [Paper]()
 
-## News articles necessitating detection of LAM-generated Multimedia
+:newspaper: ##  News articles necessitating detection of LAM-generated Multimedia
 -----------
 
 | **Sentiment** | **Category** | **Model** | **Article** | **Year** | **Publisher** | **Link** | 

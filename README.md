@@ -184,7 +184,12 @@ If you find our survey useful for your research, please cite the following paper
 | **Negative** | Ethics | LLMs | Generative AI: A Blessing or a Curse for Cybersecurity? | May 2023 | inWeb3 | [Link](https://www.inweb3.com/generative-ai-a-blessing-or-a-curse-for-cybersecurity/) |
 
 
-##  Public Datasets for Detection
+##  Generation
+<figure>
+  <img src="assets/generation.png" alt="Generation Processes">
+</figure>
+
+### Public Datasets for Detection
 
 Please read the column I20(Input-to-Output) with these abbreviations:  
 - T2T: Text-to-Text

@@ -187,7 +187,7 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 
 <figure>
   <img src="assets/text_pure.png" alt="text_pure">
-  <figcaption style="text-align: center;">Illustrations of text pure detection methodologies.</figcaption>
+  <figcaption style="text-align: center;">Illustrations of pure detection methodologies for LAIM-generated text. Image credit: <a href="https://ericmitchell.ai/detectgpt/">DetectGPT</a>, <a href="https://arxiv.org/abs/2212.10341">CoCo</a></figcaption>
 </figure>
 
 #### &nbsp;&nbsp;♣️ Easy Explainable Methods
@@ -246,7 +246,7 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 
 <figure>
   <img src="assets/text_beyond.png" alt="text_beyond">
-  <figcaption style="text-align: center;">Illustrations of text beyond detection methodologies.</figcaption>
+  <figcaption style="text-align: center;">Illustrations of beyond detection methodologies for LAIM-generated text. Image credit: <a href="https://arxiv.org/abs/2305.13242">DeepfakeTextDetect</a> </figcaption>
 </figure>
 
 #### &nbsp;&nbsp;♣️ Attribution
@@ -374,7 +374,7 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 
 <figure>
   <img src="assets/image_pure.png" alt="image_pure">
-  <figcaption style="text-align: center;">Illustrations of image pure detection methodologies. In (a) Physical/Physiological-based Methods, we show the examples of physical (first row left) cues, and physiological (first row right) cues for discerning DM-generated images from realistic ones. Image credit: <a href="https://arxiv.org/abs/2304.06470">Ali Borji</a> </figcaption>
+  <figcaption style="text-align: center;">Illustrations of pure detection methodologies for LAIM-generated image. Image credit: <a href="https://arxiv.org/abs/2304.06470">Ali Borji</a> </figcaption>
 </figure>
 
 #### &nbsp;&nbsp;♣️ Physical/Physiological based Methods
@@ -419,7 +419,7 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 
 <figure>
   <img src="assets/image_beyond.png" alt="image_beyond">
-  <figcaption style="text-align: center;">Illustrations of image beyond detection methodologies.</figcaption>
+  <figcaption style="text-align: center;">Illustrations of beyond detection methodologies for LAIM-generated image.</figcaption>
 </figure>
 
 #### &nbsp;&nbsp;♣️ Attribution and Model Parsing
@@ -523,18 +523,12 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 
 ### <p align="center">🎵 Audio</p>
 -----------
+### Pure Detection
+
 <p align="center">
   <img src="assets/Audio.png" alt="Audio Detection">
 
   <span>The artifacts introduced by the neural vocoders to a voice signal. The mel-spectrogram of the original (top left) and the self-vocoded voice signal (top right four). Their differences corresponding to the artifacts introduced by the vocoder are shown at the bottom. Image credit: <a href="https://ieeexplore.ieee.org/document/10208955">Sun et al.</a></span>
-</p>
-
-### Pure Detection
-
-<p align="center">
-  <img src="assets/pure_multimodal.png" alt="Multimodal Detection" height="300">
-
-  <span>Illustrations of pure detection methodologies for LAIM-generated multimodal media</span>
 </p>
 
 #### &nbsp;&nbsp;♣️ Vocoder-based
@@ -545,6 +539,13 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 ### <p align="center">🍯 Multimodal</p>
 -----------
 ### Pure Detection
+
+<p align="center">
+  <img src="assets/pure_multimodal.png" alt="Multimodal Detection" height="300">
+
+  <span>Illustrations of pure detection methodologies for LAIM-generated multimodal media. Image credit: <a href="https://arxiv.org/abs/2009.07698">DIDAN</a></span>
+</p>
+
 #### &nbsp;&nbsp;♣️ Text-assisted
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Parents and Children: Distinguishing Multimodal DeepFakes from Natural Images [Paper](https://arxiv.org/abs/2304.00500)

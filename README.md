@@ -119,6 +119,7 @@ If you find our survey useful for your research, please cite the following paper
 ##  Generation
 <figure>
   <img src="assets/generation.png" alt="Generation Processes">
+  <figcaption>Illustrations of different types of multimedia generation process based on LAIMs. Image credit: <a href="https://deepmind.google/technologies/imagen-2/">Imagen2</a>, <a href="https://legacy.midjourney.com/showcase/recent/">Midjourney</a>, <a href="https://arxiv.org/abs/2311.15127">Stable Video Diffusion</a>, <a href="https://proceedings.mlr.press/v139/popov21a/popov21a.pdf">Grad-TTS</a>, <a href="https://arxiv.org/abs/2009.00713">WaveGrad</a></figcaption>
 </figure>
 
 ### Public Datasets for Detection

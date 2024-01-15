@@ -50,7 +50,7 @@ If you find our survey useful for your research, please cite the following paper
                 - [N-gram Overlaps](https://github.com/Purdue-M2/Detect-LAIM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-n-gram-overlaps)
                 - [P-values](https://github.com/Purdue-M2/Detect-LAIM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-p-values)
                 - [Shapley Additive Explanations](https://github.com/Purdue-M2/Detect-LAIM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-shapley-additive-explanations)
-                - [Shapley Additive Explanations](https://github.com/Purdue-M2/Detect-LAIM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-shapley-additive-explanations-1)
+                - [Polish Ratio](https://github.com/Purdue-M2/Detect-LAIM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-polish-ratio)
             - [Robustness](https://github.com/Purdue-M2/Detect-LAIM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-robustness)
                 - [Adversarial Data Augmentation](https://github.com/Purdue-M2/Detect-LAIM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-adversarial-data-augmentation)
                 - [Adversarial Learning](https://github.com/Purdue-M2/Detect-LAIM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-adversarial-learning)
@@ -307,7 +307,7 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Check Me If You Can: Detecting ChatGPT-Generated Academic Writing using CheckGPT [Paper](https://arxiv.org/abs/2306.05524)
 
 
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Shapley Additive Explanations
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Polish Ratio
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Is chatgpt involved in texts? measure the polish ratio to detect chatgpt-generated text [Paper](https://arxiv.org/pdf/2307.11380.pdf#:~:text=PR%3A%20Polish%20Ratio%20is%20a,and%20the%20corresponding%20polished%20texts.)
 

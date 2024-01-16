@@ -119,7 +119,7 @@ If you find our survey useful for your research, please cite the following paper
 ##  Generation
 <figure>
   <img src="assets/generation.png" alt="Generation Processes">
-  <figcaption>Illustrations of different types of multimedia generation process based on LAIMs. Image credit: <a href="https://deepmind.google/technologies/imagen-2/">Imagen2</a>, <a href="https://legacy.midjourney.com/showcase/recent/">Midjourney</a>, <a href="https://arxiv.org/abs/2311.15127">Stable Video Diffusion</a>, <a href="https://proceedings.mlr.press/v139/popov21a/popov21a.pdf">Grad-TTS</a>, <a href="https://arxiv.org/abs/2009.00713">WaveGrad</a></figcaption>
+  <figcaption>Illustrations of different types of multimedia generation process based on LAIMs.</figcaption>
 </figure>
 
 ### Public Datasets for Detection
@@ -187,7 +187,7 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 
 <figure>
   <img src="assets/text_pure.png" alt="text_pure">
-  <figcaption style="text-align: center;">Illustrations of pure detection methodologies for LAIM-generated text. Image credit: <a href="https://ericmitchell.ai/detectgpt/">DetectGPT</a>, <a href="https://arxiv.org/abs/2212.10341">CoCo</a></figcaption>
+  <figcaption style="text-align: center;">Illustrations of pure detection methodologies for LAIM-generated text.</figcaption>
 </figure>
 
 #### &nbsp;&nbsp;♣️ Easy Explainable Methods
@@ -246,7 +246,7 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 
 <figure>
   <img src="assets/text_beyond.png" alt="text_beyond">
-  <figcaption style="text-align: center;">Illustrations of beyond detection methodologies for LAIM-generated text. Image credit: <a href="https://arxiv.org/abs/2305.13242">DeepfakeTextDetect</a> </figcaption>
+  <figcaption style="text-align: center;">Illustrations of beyond detection methodologies for LAIM-generated text. </figcaption>
 </figure>
 
 #### &nbsp;&nbsp;♣️ Attribution
@@ -374,7 +374,7 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 
 <figure>
   <img src="assets/image_pure.png" alt="image_pure">
-  <figcaption style="text-align: center;">Illustrations of pure detection methodologies for LAIM-generated image. Image credit: <a href="https://arxiv.org/abs/2304.06470">Ali Borji</a> </figcaption>
+  <figcaption style="text-align: center;">Illustrations of pure detection methodologies for LAIM-generated image.</figcaption>
 </figure>
 
 #### &nbsp;&nbsp;♣️ Physical/Physiological based Methods
@@ -509,9 +509,9 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 ### <p align="center">🎞️ Video</p>
 -----------
 <p align="center">
-  <img src="assets/Video Detection.png" alt="Video Detection">
+  <img src="assets/video_detection.png" alt="Video Detection">
   
-  <span>The generalizability of state-of-the-art video detection methods including  <a href="https://openaccess.thecvf.com/content/ICCV2021/html/Zheng_Exploring_Temporal_Coherence_for_More_General_Video_Face_Forgery_Detection_ICCV_2021_paper.html">Temporal</a>, <a href="https://ieeexplore.ieee.org/document/9880195">SIB</a>, and <a href="https://openaccess.thecvf.com/content/CVPR2021/html/Haliassos_Lips_Dont_Lie_A_Generalisable_and_Robust_Approach_To_Face_CVPR_2021_paper.html">Lip-Forensics</a> are evaluated on DM-generated videos, Temporal and Lip-Forensics shows degradation in generalization. Image credit: <a href="https://openaccess.thecvf.com/content/ICCV2023W/DFAD/html/Kamat_Revisiting_Generalizability_in_Deepfake_Detection_Improving_Metrics_and_Stabilizing_Transfer_ICCVW_2023_paper.html">Kamat et al.</a>
+  <span>The generalizability of state-of-the-art video detection methods including
  </span>
 </p>
 

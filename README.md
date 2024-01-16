@@ -509,9 +509,9 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 ### <p align="center">🎞️ Video</p>
 -----------
 <p align="center">
-  <img src="assets/video_detection.png" alt="Video Detection">
+  <img src="assets/video_detection.png" alt="Video Detection" width="400">
   
-  <span>The generalizability of state-of-the-art video detection methods including
+  <span>Illustration of detection methodology in generalization task for LAIM-generated video.
  </span>
 </p>
 
@@ -526,9 +526,9 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 ### Pure Detection
 
 <p align="center">
-  <img src="assets/Audio.png" alt="Audio Detection">
+  <img src="assets/audio.png" alt="Audio Detection">
 
-  <span>The artifacts introduced by the neural vocoders to a voice signal. The mel-spectrogram of the original (top left) and the self-vocoded voice signal (top right four). Their differences corresponding to the artifacts introduced by the vocoder are shown at the bottom. Image credit: <a href="https://ieeexplore.ieee.org/document/10208955">Sun et al.</a></span>
+  <span>The artifacts introduced by DM-based neural vocoders (WaveGrad and DiffWave) to a voice signal. The differences in mel-spectrograms between real and generated ones are illustrated in the third and fifth columns.</span>
 </p>
 
 #### &nbsp;&nbsp;♣️ Vocoder-based
@@ -541,9 +541,9 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 ### Pure Detection
 
 <p align="center">
-  <img src="assets/pure_multimodal.png" alt="Multimodal Detection" height="300">
+  <img src="assets/multimodal_pure.png" alt="Multimodal Detection" >
 
-  <span>Illustrations of pure detection methodologies for LAIM-generated multimodal media. Image credit: <a href="https://arxiv.org/abs/2009.07698">DIDAN</a></span>
+  <span>Illustrations of pure detection methodologies for LAIM-generated multimodal media.</span>
 </p>
 
 #### &nbsp;&nbsp;♣️ Text-assisted
@@ -559,7 +559,7 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 ### Beyond Detection
 
 <p align="center">
-  <img src="assets/Multimodal.png" alt="Multimodal Detection">
+  <img src="assets/multimodal_beyond.png" alt="Multimodal Detection">
 
   <span>Illustrations of beyond detection methodologies for LAIM-generated multimodal media.</span>
 </p>

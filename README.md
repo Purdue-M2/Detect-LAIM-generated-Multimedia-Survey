@@ -564,7 +564,7 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 
 #### &nbsp;&nbsp;♣️ Text-image Inconsistency
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Detecting cross-modal inconsistency to defend against neural fake news [Paper](https://aclanthology.org/2020.emnlp-main.163.pdf) [GitHub](https://github.com/rxtan2/DIDAN/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Detecting Cross-Modal Inconsistency to Defend Against Neural Fake News [Paper](https://aclanthology.org/2020.emnlp-main.163.pdf) [GitHub](https://github.com/rxtan2/DIDAN/)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Exposing Text-Image Inconsistency Using Diffusion Models [Paper](https://openreview.net/pdf/3d3c1e0b84ce74cdcd55919e7dbe226392c0dcd6.pdf)
  

@@ -8,7 +8,7 @@ This repository contains a collection of resources and papers on ***Detecting Mu
 </figure>
 
 
-Please let us know if you find out a mistake or have any suggestions by e-mail: lin1785@purdue.edu, hu968@purdue.edu, gupt1031@purdue.edu
+Please let us know if you find a mistake, or if we have missed your wonderful work by e-mail: lin1785@purdue.edu, hu968@purdue.edu, gupt1031@purdue.edu
 
 If you find our survey useful for your research, please cite the following paper:
 
@@ -37,6 +37,7 @@ If you find our survey useful for your research, please cite the following paper
                 - [Perplexity](https://github.com/Purdue-M2/Detect-LAIM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-perplexity)
                 - [Log Probabilities Curvature](https://github.com/Purdue-M2/Detect-LAIM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-log-probabilities-curvature)
                 - [Efficient Perturbations](https://github.com/Purdue-M2/Detect-LAIM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-efficient-perturbations)
+                - [Positive Unlabeled](https://github.com/Purdue-M2/Detect-LAIM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-positive-unlabeled)
         - [Beyond Detection](https://github.com/Purdue-M2/Detect-LAIM-generated-Multimedia-Survey/blob/main/README.md#beyond-detection)
             - [Attribution](https://github.com/Purdue-M2/Detect-LAIM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-attribution)
                 - [Deep-learning Based](https://github.com/Purdue-M2/Detect-LAIM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-deep-learning-based)
@@ -242,6 +243,10 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Fast-DetectGPT: Efficient Zero-Shot Detection of Machine-Generated Text via Conditional Probability Curvature [Paper](https://arxiv.org/abs/2310.05130)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - DetectLLM: Leveraging Log Rank Information for Zero-Shot Detection of Machine-Generated Text [Paper](https://arxiv.org/abs/2306.05540) [GitHub](https://github.com/mbzuai-nlp/DetectLLM)
+
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Positive Unlabeled
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Multiscale Positive-Unlabeled Detection of AI-Generated Texts [Paper](https://arxiv.org/abs/2305.18149) [GitHub](https://github.com/YuchuanTian/AIGC_text_detector)
 
 
 ### Beyond Detection
@@ -560,6 +565,8 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 #### &nbsp;&nbsp;♣️ Text-image Inconsistency
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Detecting cross-modal inconsistency to defend against neural fake news [Paper](https://aclanthology.org/2020.emnlp-main.163.pdf) [GitHub](https://github.com/rxtan2/DIDAN/)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Exposing Text-Image Inconsistency Using Diffusion Models [Paper](https://openreview.net/pdf/3d3c1e0b84ce74cdcd55919e7dbe226392c0dcd6.pdf)
  
 
 ### Beyond Detection

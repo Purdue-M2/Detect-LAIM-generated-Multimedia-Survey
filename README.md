@@ -365,6 +365,8 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - How close is chatgpt to human experts? comparison corpus, evaluation, and detection [Paper](https://arxiv.org/abs/2301.07597) [GitHub](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Can LLM-Generated Misinformation Be Detected? [Paper](https://arxiv.org/abs/2309.13788) [GitHub](https://llm-misinformation.github.io/)
+
 
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Attribution
 

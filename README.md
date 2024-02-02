@@ -10,7 +10,7 @@ This repository contains a collection of resources and papers on ***Detecting Mu
 
 Please let us know if you find a mistake, or if we have missed your wonderful work by e-mail: lin1785@purdue.edu, hu968@purdue.edu, gupt1031@purdue.edu 
 
-If you find our survey useful for your research, please cite the following paper:
+If you find our survey useful for your research, please cite the following [Paper](https://arxiv.org/abs/2402.00045)
 
 ```
 @article{Detect-LAIM-Survey,

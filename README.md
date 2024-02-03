@@ -61,6 +61,7 @@ If you find our survey useful for your research, please cite the following [Pape
                 - [Human Evaluation](https://github.com/Purdue-M2/Detect-LAIM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-human-evaluation)
                 - [Attribution](https://github.com/Purdue-M2/Detect-LAIM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-attribution-1)
                 - [Paraphrase Detection](https://github.com/Purdue-M2/Detect-LAIM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-paraphrase-detection)
+                - [Sample Complexity](https://github.com/Purdue-M2/Detect-LAIM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-sample-complexity)
     - [Image](https://github.com/Purdue-M2/Detect-LAIM-generated-Multimedia-Survey/blob/main/README.md#--image-)
         - [Pure Detection](https://github.com/Purdue-M2/Detect-LAIM-generated-Multimedia-Survey/blob/main/README.md#pure-detection-1)
             - [Physical/Physiological based Methods](https://github.com/Purdue-M2/Detect-LAIM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-physicalphysiological-based-methods)
@@ -378,6 +379,10 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - How large language models are transforming machine-paraphrased plagiarism  [Paper](https://aclanthology.org/2022.emnlp-main.62.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Paraphrase Detection: Human vs. Machine Content [Paper](https://arxiv.org/abs/2303.13989)
+
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Sample Complexity
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - On the Possibilities of AI-Generated Text Detection  [Paper](https://arxiv.org/pdf/2304.04736.pdf)
 
 
 ### <p align="center"> 📸 Image </p>

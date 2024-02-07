@@ -170,6 +170,7 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 | **Image** | DiffusionForensics | General | [Link](https://github.com/ZhendongWang6/DIRE) | T2I/I2I | 232,000 | 232,000 | LSUN, ImageNet | Various methods including LDM, DDPM, iDDPM, VQDM, ADM, PNDM | 2023 |
 | **Image** | CocoGlide | General | [Link](https://github.com/grip-unina/TruFor) | T2I | 512 | 512 | COCO | GLIDE | 2023 |
 | **Image** | Western Blot | General | [Link](https://www.dropbox.com/sh/nl3txxfovy97b1k/AABqb-gkGBEfjS6pjke3a-d7a?dl=0) | I2I | ~14,000 | ~24,000 | Western Blot | DDPM, Pix2pix, CycleGAN | 2022 |
+| **Image** | M3Dsynth | General | [Link](https://github.com/grip-unina/M3Dsynth/) | I2I | 1,018 | 8,577 | LIDC-IDRI | DDPM, Pix2pix, CycleGAN | 2023 |
 | **Image** | LSUNDB | General | [Link](https://zenodo.org/records/7528113) | T2I/I2I | 250,000 | 250,000 | LSUN | Various methods including DDPM, PNDM, LDM, ADM, ProjectedGAN, StyleGAN, DiffusionGAN | 2023 |
 | **Image** | UniversalFake | General | [Link](https://drive.google.com/file/d/1FXlGIRh_Ud3cScMgSVDbEWmPDmjcrm1t/view) | T2I | 8,000 | 8,000 | LAION-400M | LDM, GLIDE | 2023 |
 | **Image** | REGM | General | [Link](https://drive.google.com/file/d/1bAmC_9aMkWJB_scGvOOWvNeLa9FBoMUr/view) | T2I/I2I | - | 116,000 | CelebA, LSUN | 116 publicly available GMs | 2023 |

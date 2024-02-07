@@ -158,6 +158,7 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 | **Text** | InternVid | Captions | [Link](https://github.com/OpenGVLab/InternVideo/tree/main/Data/InternVid) | V2T | 7,000,000 | 234,000,000 | YouTube | ViCLIP | 2023 |
 | **Image** | DFF | Face | [Link](https://huggingface.co/datasets/OpenRL/DeepFakeFace) | T2I/I2I | 30,000 | 90,000 | IMDB-WIKI | SDMs, InsightFace | 2023 |
 | **Image** | RealFaces | Face | [Link](https://github.com/LucaCorvitto/RealFaces_w_StableDiffusion) | T2I | 258 | 25,800 | Prompts | SDMs | 2023 |
+| **Image** | DCFace | Face | [Link](https://drive.google.com/drive/folders/1bbG2P3pz81ujj-Ss1mOLol3qnQhc4nBJ) | I2I | - | 1,200,000 | FFHQ, CASIA-WebFace | DDPM| 2023 |
 | **Image** | OverheadImg | Overhead | [Link](https://stresearch.github.io/synthetic-overhead-dataset/) | T2I/I2I | 6,475 | 6,675 | MapBox, Google Maps | GLIDE, DDPM | 2023 |
 | **Image** | Synthbuster  | General | [Link]([https://github.com/GenImage-Dataset/GenImage](https://zenodo.org/records/10066460)) | T2I | - | 9,000 | Raise-1k | DALL·E 2&3, Firefly, Midjourney, SDMs, SDMs  | 2023 |
 | **Image** | GenImage | General | [Link](https://github.com/GenImage-Dataset/GenImage) | T2I/I2I | 1,331,167 | 1,350,000 | ImageNet | Various methods including SDMs, Midjourney, BigGAN, VQDM | 2023 |
@@ -521,6 +522,8 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Forensic analysis of synthetically generated western blot images [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9785655)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Beyond Human Forgeries: An Investigation into Detecting Diffusion-Generated Handwriting [Paper](https://link.springer.com/chapter/10.1007/978-3-031-41498-5_1)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Organic or Diffused: Can We Distinguish Human Art from AI-generated Images? [Paper](https://arxiv.org/html/2402.03214v1#S10)
 
 
 ### <p align="center">🎞️ Video</p>

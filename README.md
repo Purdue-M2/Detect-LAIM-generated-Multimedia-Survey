@@ -646,6 +646,7 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 |        **Text**                              | AI Content Detector                       | Conch               | [Link](https://www.getconch.ai/)                                                                            |
 |        **Text**                              | Illuminarty Text                          | Illuminarty         | [Link](https://app.illuminarty.ai/#/text)                                                                   |
 |     **Text**       | AI-Generated Text Detector                | Is it AI            | [Link](https://isitai.com/ai-text-detector/)                                                                |
+|     **Text**       | AI Detector Efficacy Research Tool                |  Originality ai            | [Link](https://originality.ai/blog/ai-detector-efficacy-research-tool)
 | **Image**                          | AI or Not image                           | AI or Not           | [Link](https://www.aiornot.com/)                                                                            |
 |       **Image**                             | AI-Generated Image Detector               | Is it AI            | [Link](https://isitai.com/ai-image-detector/)                                                               |
 |       **Image**                             | Illuminarty Image                         | Illuminarty         | [Link](https://app.illuminarty.ai/#/image)                                                                  |

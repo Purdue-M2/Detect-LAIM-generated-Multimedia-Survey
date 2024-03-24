@@ -631,6 +631,7 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - VERITE: a Robust benchmark for multimodal misinformation detection accounting for unimodal bias [Paper](https://link.springer.com/article/10.1007/s13735-023-00312-6) [GitHub](https://github.com/stevejpapad/image-text-verification)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Can ChatGPT Detect DeepFakes? A Study of Using Multimodal Large Language Models for Media Forensics [Paper](https://arxiv.org/pdf/2403.14077.pdf)
 
 ## Detection Tools
 

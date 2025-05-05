@@ -636,28 +636,47 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 
 ## Detection Tools
 
-| Modality                           | Tool                                      | Company            | Link                                                                                                         |
-| ---------------------------------- | ----------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------ |
-| **Text**                           | AI Content Detector                       | Copyleaks          | [Link](https://copyleaks.com/ai-content-detector)                                                            |
-|    **Text**                                  | AI Content Detector, ChatGPT detector     | ZeroGPT            | [Link](https://zerogpt.net/zerogpt-results)                                                                  |
-|        **Text**                              | AI Content Detector                       | Winston AI         | [Link](https://gowinston.ai/)                                                                                |
-|      **Text**                                | AI Content Detector                       | Crossplag           | [Link](https://crossplag.com/ai-content-detector/)                                                           |
-|      **Text**                                | Giant Language model Test Room            | GLTR               | [Link](http://gltr.io/)                                                                                      |
-|      **Text**                                | The AI Detector                           | Content at Scale   | [Link](https://contentatscale.ai/ai-content-detector/)                                                      |
-|      **Text**                                | AI Checker                                | Originality ai     | [Link](https://originality.ai/)                                                                             |
-|      **Text**                                | Advanced AI Detector and Humanizer        | Undetectable ai     | [Link](https://undetectable.ai/)                                                                            |
-|       **Text**                               | AI Content Detector                       | Writer              | [Link](https://writer.com/ai-content-detector/)                                                             |
-|        **Text**                              | AI Content Detector                       | Conch               | [Link](https://www.getconch.ai/)                                                                            |
-|        **Text**                              | Illuminarty Text                          | Illuminarty         | [Link](https://app.illuminarty.ai/#/text)                                                                   |
-|     **Text**       | AI-Generated Text Detector                | Is it AI            | [Link](https://isitai.com/ai-text-detector/)                                                                |
-|     **Text**       | AI Detector Efficacy Research Tool                |  Originality ai            | [Link](https://originality.ai/blog/ai-detector-efficacy-research-tool)
-| **Image**                          | AI or Not image                           | AI or Not           | [Link](https://www.aiornot.com/)                                                                            |
-|       **Image**                             | AI-Generated Image Detector               | Is it AI            | [Link](https://isitai.com/ai-image-detector/)                                                               |
-|       **Image**                             | Illuminarty Image                         | Illuminarty         | [Link](https://app.illuminarty.ai/#/image)                                                                  |
-|        **Image**                            | SynthID                                   | Google              | [Link](https://deepmind.google/discover/blog/identifying-ai-generated-images-with-synthid/)                |
-|            **Image**                        | Advanced AI Image Detector                | Content at Scale    | [Link](https://contentatscale.ai/ai-image-detector/)                                                       |
-|    **Image**     | AI Image Detector                         | Huggingface         | [Link](https://huggingface.co/spaces/Phantom3306/AI-image-detector)                                       |
-| **Audio**                          | AI or Not audio                           | AI or Not           | [Link](https://www.aiornot.com/)                                                                            |
+| Modality     | Tool                                             | Company             | Link     | Type               | Open Source | Cost                |
+|--------------|--------------------------------------------------|---------------------|----------|--------------------|-------------|---------------------|
+| Text         | AI Content Detector                              | Copyleaks           | [Link](#) | Webapp & API       | ✗           | Limited free usage  |
+|              | AI Content Detector, ChatGPT detector            | ZeroGPT             | [Link](#) | Webapp & API       | ✗           | Free usage          |
+|              | AI Detector                                      | GPTZero             | [Link](#) | Multi-platform     | ✗           | Limited free usage  |
+|              | AI Content Detector                              | Winston AI          | [Link](#) | Webapp & API       | ✗           | Limited free usage  |
+|              | AI Content Detector                              | Crossplag           | [Link](#) | Webapp             | ✗           | Limited free usage  |
+|              | Giant Language model Test Room                   | GLTR                | [Link](#) | Webapp             | ✗           | Free usage          |
+|              | The AI Detector                                  | Content at Scale    | [Link](#) | Webapp             | ✗           | Free usage          |
+|              | AI Checker                                       | Originality ai      | [Link](#) | Webapp & API       | ✗           | Limited free usage  |
+|              | Advanced AI Detector and Humanizer               | Undetectable ai     | [Link](#) | Webapp & API       | ✗           | Limited free usage  |
+|              | AI Content Detector                              | Writer              | [Link](#) | Webapp & API       | ✗           | Limited free usage  |
+|              | AI Content Detector                              | Conch               | [Link](#) | Webapp             | ✗           | Limited free usage  |
+|              | Illuminarty Text                                 | Illuminarty         | [Link](#) | Webapp & API       | ✗           | Limited free usage  |
+|              | AI-Generated Text Detector                       | Is it AI            | [Link](#) | Webapp & API       | ✗           | Limited free usage  |
+| Image        | Liveness Detection, Facial Recognition           | Incode              | [Link](#) | Multi-platform     | ✗           | Paid                |
+|              | AI or Not image                                  | AI or Not           | [Link](#) | Webapp & API       | ✗           | Limited free usage  |
+|              | AI-Generated Image Detector                      | Is it AI            | [Link](#) | Webapp & API       | ✗           | Limited free usage  |
+|              | Illuminarty Image                                | Illuminarty         | [Link](#) | Webapp & API       | ✗           | Limited free usage  |
+|              | AI Image Detector                                | Undetectable ai     | [Link](#) | Webapp & API       | ✗           | Limited free usage  |
+|              | SynthID                                          | Google              | [Link](#) | Webapp             | ✗           | Free usage          |
+|              | The AI image detector                            | Winston             | [Link](#) | Webapp & API       | ✗           | Limited free usage  |
+|              | Advanced AI Image Detector                       | Brandwell           | [Link](#) | Webapp             | ✗           | Limited free usage  |
+| Video        | Deepware Scanner                                 | Deepware            | [Link](#) | Webapp & API       | ✓           | Free usage          |
+|              | Attestiv Deepfake Video Detection                | Attestiv            | [Link](#) | Webapp & API       | ✗           | Limited free usage  |
+| Audio        | Pulse Inspect                                    | Pindrop             | [Link](#) | Multi-platform     | ✗           | Paid                |
+|              | AI Voice Detector                                | AI Voice Detector   | [Link](#) | Webapp & API       | ✗           | Limited free usage  |
+|              | AI Speech Classifier                             | ElevenLabs          | [Link](#) | Webapp & API       | ✗           | Limited free usage  |
+|              | AI or Not audio                                  | AI or Not           | [Link](#) | Multi-platform     | ✗           | Limited free usage  |
+| Multi-modal  | Video, Image, and Audio Detector                 | Deep Media          | [Link](#) | Multi-platform     | ✗           | Limited free usage  |
+|              | Deepfake Detection                               | Sensity AI          | [Link](#) | Multi-platform     | ✗           | Paid                |
+|              | Hive AI’s Deepfake Detection API                 | Hive AI             | [Link](#) | API                | ✗           | Limited free usage  |
+|              | Resemble Detect                                  | Resemble AI         | [Link](#) | Webapp & API       | ✗           | Limited free usage  |
+|              | DuckDuckGoose AI (Phocus)                        | DuckDuckGoose AI    | [Link](#) | Webapp             | ✗           | Paid                |
+|              | Sentinel                                         | Sentinel            | [Link](#) | Webapp             | ✗           | Paid                |
+|              | Deepfake Detector                                | Deepfake Detector   | [Link](#) | Multi-platform     | ✗           | Free usage          |
+|              | DeepFake-o-meter                                 | U of Buffalo        | [Link](#) | Webapp             | ✗           | Free usage          |
+|              | BioID                                            | BioID               | [Link](#) | Webapp & API       | ✗           | Limited free usage  |
+|              | Get Real Protect                                 | Get Real            | [Link](#) | Multi-platform     | ✗           | Paid                |
+|              | Reality Defender                                 | Reality Defender    | [Link](#) | Multi-platform     | ✗           | Paid                |
+
 
 
 ## Generation Works

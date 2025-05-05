@@ -4,9 +4,9 @@ This repository contains a collection of resources and papers on ***Detecting Mu
 
 <figure>
   <img src="assets/timeline_new.png" alt="timeline">
-  <figcaption>A cat-and-mouse game between generating and detecting multimedia (<span style="color:textcolor;background-color: #97D077; padding: 2px 4px;">text</span>, <span style="color: imagecolor; background-color: #FF9999; padding: 2px 4px;">image</span>, <span style="color: videocolor; background-color: #FF8000; padding: 2px 4px;">video</span>, <span style="color: audiocolor; background-color: #CDA2BE; padding: 2px 4px;">audio</span>, and <span style="color: mmcolor; background-color: #FFCE9F; padding: 2px 4px;">multimodal</span>) using LAIMs, showcasing only representative works. Q1 represents from Jan to Mar, Q2: Apr-Jun, Q3: Jul-Sep, Q4: Oct-Dec.</figcaption>
+  <figcaption>A cat-and-mouse game between generating and detecting multimedia (<span style="color:textcolor;background-color: #97D077; padding: 2px 4px;">text</span>, <span style="color: imagecolor; background-color: #FF9999; padding: 2px 4px;">image</span>, <span style="color: videocolor; background-color: #FF8000; padding: 2px 4px;">video</span>, <span style="color: audiocolor; background-color: #CDA2BE; padding: 2px 4px;">audio</span>, and <span style="color: mmcolor; background-color: #FFCE9F; padding: 2px 4px;">multimodal</span>) using LAIMs, showcasing only representative works. Q1 represents from Jan to Mar, Q2: Apr-Jun, Q3: Jul-Sep, Q4: Oct-Dec. The references of those works are displayed [Detection Works](https://github.com/Purdue-M2/Detect-LAIM-generated-Multimedia-Survey/blob/main/README.md#detection-works)
+ </figcaption>
 </figure>
-
 
 Please let us know if you find a mistake, or if we have missed your wonderful work by e-mail: lin1785@purdue.edu, hu968@purdue.edu, gupt1031@purdue.edu 
 

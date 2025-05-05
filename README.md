@@ -658,3 +658,103 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 |            **Image**                        | Advanced AI Image Detector                | Content at Scale    | [Link](https://contentatscale.ai/ai-image-detector/)                                                       |
 |    **Image**     | AI Image Detector                         | Huggingface         | [Link](https://huggingface.co/spaces/Phantom3306/AI-image-detector)                                       |
 | **Audio**                          | AI or Not audio                           | AI or Not           | [Link](https://www.aiornot.com/)                                                                            |
+
+
+## Generation Works
+
+| Works            | Time       | Modality   | Links                                                                 |
+|------------------|------------|------------|-----------------------------------------------------------------------|
+| T5               | Q4 2019    | Text       | [Link](https://arxiv.org/abs/1910.10683)                              |
+| GPT-3            | Q2 2020    | Text       | [Link](https://arxiv.org/abs/2005.14165)                              |
+| Wave-Grad2       | Q1 2021    | Audio      | [Link](https://arxiv.org/abs/2106.09660)                              |
+| PanGu            | Q2 2021    | Text       | [Link](https://arxiv.org/abs/2104.12369)                              |
+| LDMs             | Q4 2021    | Image      | [Link](https://arxiv.org/abs/2112.10752)                              |
+| GLIDE            | Q4 2021    | Image      | [Link](https://arxiv.org/abs/2112.10741)                              |
+| Imagen           | Q2 2022    | Image      | [Link](https://arxiv.org/abs/2205.11487)                              |
+| PaLM             | Q2 2022    | Text       | [Link](https://arxiv.org/abs/2204.02311)                              |
+| OPT              | Q2 2022    | Text       | [Link](https://arxiv.org/abs/2205.01068)                              |
+| Make-A-Video     | Q3 2022    | Video      | [Link](https://arxiv.org/abs/2209.14792)                              |
+| GLM              | Q3 2022    | Text       | [Link](https://arxiv.org/abs/2103.10360)                              |
+| HuggingGPT       | Q3 2022    | Multimodal | [Link](https://arxiv.org/abs/2303.17580)                              |
+| Whisper          | Q3 2022    | Audio      | [Link](https://arxiv.org/abs/2212.04356)                              |
+| ChatGPT          | Q4 2022    | Text       | [Link](https://openai.com/index/chatgpt/)                             |
+| DALL-E 2         | Q4 2022    | Image      | [Link](https://openai.com/index/dall-e-2/)                            |
+| SD               | Q4 2022    | Image      | [Link](https://stability.ai/stable-image)                             |
+| mT0              | Q4 2022    | Text       | [Link](https://arxiv.org/abs/2211.01786)                              |
+| BLOOM            | Q4 2022    | Text       | [Link](https://arxiv.org/abs/2211.05100)                              |
+| Make-An-Audio    | Q1 2023    | Audio      | [Link](https://arxiv.org/abs/2301.12661)                              |
+| GPT-4            | Q1 2023    | Multimodal | [Link](https://openai.com/index/gpt-4/)                               |
+| Bard             | Q1 2023    | Text       | [Link](https://blog.google/technology/ai/bard-google-ai-search-updates/) |
+| LLaMA            | Q1 2023    | Text       | [Link](https://arxiv.org/abs/2302.13971)                              |
+| GEN-1            | Q1 2023    | Video      | [Link](https://runwayml.com/research/gen-1)                           |
+| ImageReward      | Q2 2023    | Image      | [Link](https://arxiv.org/abs/2304.05977)                              |
+| PaLM2            | Q2 2023    | Text       | [Link](https://blog.google/technology/ai/google-palm-2-ai-large-language-model/) |
+| CodeGen2         | Q2 2023    | Text       | [Link](https://arxiv.org/abs/2305.02309)                              |
+| IF               | Q2 2023    | Image      | [Link](https://stability.ai/news/deepfloyd-if-text-to-image-model)    |
+| VideoGen         | Q3 2023    | Video      | [Link](https://arxiv.org/abs/2309.00398)                              |
+| DALL-E 3         | Q3 2023    | Image      | [Link](https://openai.com/index/dall-e-3/)                            |
+| LLaMA 2          | Q3 2023    | Text       | [Link](https://arxiv.org/abs/2307.09288)                              |
+| Gemini           | Q4 2023    | Text       | [Link](https://blog.google/technology/ai/google-gemini-ai/)           |
+| Emu Edit         | Q4 2023    | Image      | [Link](https://arxiv.org/abs/2311.10089)                              |
+| Emu Video        | Q4 2023    | Video      | [Link](https://arxiv.org/abs/2311.10709)                              |
+| Titan            | Q4 2023    | Image      | [Link](https://aws.amazon.com/bedrock/amazon-models/titan/)           |
+| Stable Video     | Q4 2023    | Video      | [Link](https://stability.ai/stable-video)                             |
+| MidjourneyV6     | Q4 2023    | Image      | [Link](https://updates.midjourney.com/version-6-1/)                   |
+| Imagen 2         | Q4 2023    | Image      | [Link](https://deepmind.google/technologies/imagen-2/)                |
+| Claude 3.5       | Q1 2024    | Multimodal | [Link](https://www.anthropic.com/news/claude-3-5-sonnet)              |
+| aMUSEd           | Q1 2024    | Image      | [Link](https://arxiv.org/abs/2401.01808)                              |
+| Synthesia 2      | Q2 2024    | Video      | [Link](https://www.synthesia.io/post/introducing-synthesia-video-communications-platform) |
+| MultiBooth       | Q2 2024    | Image      | [Link](https://arxiv.org/abs/2404.14239)                              |
+| GPT-4o           | Q2 2024    | Multimodal | [Link](https://openai.com/index/hello-gpt-4o/)                        |
+| LLaMA 3          | Q2 2024    | Multimodal | [Link](https://ai.meta.com/blog/meta-llama-3/)                        |
+| GLM-4            | Q2 2024    | Multimodal | [Link](https://www.aibase.com/tool/30904)                             |
+| CustomCrafter    | Q3 2024    | Video      | [Link](https://customcrafter.github.io/)                              |
+| MegaFusion       | Q3 2024    | Image      | [Link](https://arxiv.org/abs/2408.11001)                              |
+| Qwen 2           | Q3 2024    | Multimodal | [Link](https://arxiv.org/abs/2407.10671)                              |
+| Tri-Ergon        | Q4 2024    | Audio      | [Link](https://arxiv.org/abs/2412.20378)                              |
+| Veo 2            | Q4 2024    | Video      | [Link](https://deepmind.google/technologies/veo/veo-2/)               |
+| Sora             | Q4 2024    | Video      | [Link](https://openai.com/sora/)                                      |
+| AudioX           | Q1 2025    | Audio      | [Link](https://arxiv.org/abs/2503.10522)                              |
+| Grok 3           | Q1 2025    | Multimodal | [Link](https://x.ai/news/grok-3)                                      |
+| DeepSeek-V3      | Q1 2025    | Multimodal | [Link](https://api-docs.deepseek.com/news/news250325)                |
+| Gemini 2.5 Pro   | Q1 2025    | Multimodal | [Link](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/) |
+| LLaMA 4          | Q2 2025    | Multimodal | [Link](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)     |
+| Qwen 3           | Q2 2025    | Multimodal | [Link](https://github.com/QwenLM/Qwen3?tab=readme-ov-file)           |
+
+---
+
+## Detection Works
+
+| Works          | Time       | Modality   | Links                                                                 |
+|----------------|------------|------------|------------------------------------------------------------------------|
+| Linguistic     | Q4 2020    | Text       | [Link](https://aclanthology.org/2020.emnlp-main.673/)                 |
+| XLNet-FT       | Q1 2021    | Text       | [Link](https://aclanthology.org/2021.eacl-main.155/)                  |
+| Turing-Bench   | Q4 2021    | Text       | [Link](https://arxiv.org/abs/2109.13296)                              |
+| Unraveling     | Q2 2022    | Text       | [Link](https://aclanthology.org/2022.lrec-1.744/)                     |
+| Wavelet        | Q3 2022    | Image      | [Link](https://arxiv.org/abs/2106.09369)                              |
+| Whodunit       | Q3 2022    | Text       | [Link](https://arxiv.org/abs/2209.11887)                              |
+| De-Fake        | Q4 2022    | Multimodal | [Link](https://arxiv.org/abs/2210.06998)                              |
+| Towards        | Q4 2022    | Image      | [Link](https://arxiv.org/abs/2210.14571)                              |
+| TruFor         | Q4 2022    | Image      | [Link](https://arxiv.org/abs/2212.10957)                              |
+| DIRE           | Q1 2023    | Image      | [Link](https://arxiv.org/abs/2303.09295)                              |
+| GPTZero        | Q1 2023    | Text       | [Link](https://gptzero.me/)                                           |
+| DetectGPT      | Q1 2023    | Text       | [Link](https://arxiv.org/abs/2301.11305)                              |
+| HAMMER         | Q2 2023    | Multimodal | [Link](https://arxiv.org/abs/2304.02556)                              |
+| DetectVocoder  | Q2 2023    | Audio      | [Link](https://arxiv.org/abs/2304.13085)                              |
+| SeDID          | Q3 2023    | Image      | [Link](https://arxiv.org/abs/2307.06272)                              |
+| RADAR          | Q3 2023    | Text       | [Link](https://arxiv.org/abs/2307.03838)                              |
+| OUTFOX         | Q3 2023    | Image      | [Link](https://arxiv.org/abs/2307.11729)                              |
+| SeqXGPT        | Q4 2023    | Text       | [Link](https://arxiv.org/abs/2310.08903)                              |
+| RevisitVideo   | Q4 2023    | Video      | [Link](https://ieeexplore.ieee.org/document/10350675)                 |
+| Raising        | Q4 2023    | Image      | [Link](https://arxiv.org/abs/2312.00195)                              |
+| Binoculars     | Q1 2024    | Text       | [Link](https://arxiv.org/abs/2401.12070)                              |
+| AI Face        | Q2 2024    | Image      | [Link](https://arxiv.org/abs/2406.00783)                              |
+| DuB3D          | Q2 2024    | Video      | [Link](https://arxiv.org/abs/2405.15343)                              |
+| GECScore       | Q2 2024    | Text       | [Link](https://arxiv.org/abs/2405.04286)                              |
+| FFAA           | Q3 2024    | Multimodal | [Link](https://arxiv.org/abs/2408.10072)                              |
+| Breaking       | Q4 2024    | Image      | [Link](https://neurips.cc/virtual/2024/poster/95403)                 |
+| B-Free         | Q4 2024    | Image      | [Link](https://arxiv.org/abs/2412.17671)                              |
+| ForgeryGPT     | Q4 2024    | Multimodal | [Link](https://arxiv.org/abs/2410.10238)                              |
+| FakeShield     | Q4 2024    | Multimodal | [Link](https://arxiv.org/abs/2410.02761)                              |
+| GenVidBench    | Q1 2025    | Video      | [Link](https://arxiv.org/abs/2501.11340)                              |
+

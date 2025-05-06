@@ -249,7 +249,7 @@ Please read the column I20(Input-to-Output) with these abbreviations:
   <figcaption style="text-align: center;">Illustrations of beyond detection methodologies for LAIM-generated text. </figcaption>
 </figure>
 
-#### &nbsp;&nbsp;🚀 Efficiency
+#### &nbsp;&nbsp;♣️ Efficiency
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Efficient Detection of LLM-generated Texts with a Bayesian Surrogate Model [Paper](https://aclanthology.org/2024.findings-acl.366/)
 

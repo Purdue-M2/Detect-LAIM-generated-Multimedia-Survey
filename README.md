@@ -555,7 +555,7 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 ### Beyond Detection
 #### &nbsp;&nbsp;♣️ Generalization
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Improving Generalization for AI-Synthesized Voice Detection [Paper](https://arxiv.org/abs/2412.19279)[GitHub](https://github.com/Purdue-M2/AI-Synthesized-Voice-Generalization)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Improving Generalization for AI-Synthesized Voice Detection [Paper](https://arxiv.org/abs/2412.19279) [GitHub](https://github.com/Purdue-M2/AI-Synthesized-Voice-Generalization)
 
 ### <p align="center">🍯 Multimodal</p>
 -----------

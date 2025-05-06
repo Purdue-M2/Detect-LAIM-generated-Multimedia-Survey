@@ -235,43 +235,30 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - A Private Watermark for Large Language Models  [Paper](https://arxiv.org/abs/2307.16230v2)
     
     
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Artifacts
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Non-watermarking
     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Unraveling the mystery of artifacts in machine generated text  [Paper](https://aclanthology.org/2022.lrec-1.744.pdf)
-    
-    
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Stylometry/Coherence
     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Stylometric detection of ai-generated text in twitter timelines  [Paper](https://arxiv.org/abs/2303.03697)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - CoCo: Coherence-Enhanced Machine-Generated Text Detection Under Data Limitation With Contrastive Learning [Paper](https://aclanthology.org/2023.emnlp-main.1005/)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Beat LLMs at Their Own Game: Zero-Shot LLM-Generated Text Detection via Querying ChatGPT [Paper](https://aclanthology.org/2023.emnlp-main.463/) [GitHub](https://github.com/thunlp/LLM-generated-text-detection)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Who Wrote This? The Key to Zero-Shot LLM-Generated Text Detection Is GECScore [Paper](https://arxiv.org/abs/2405.04286) [GitHub](https://github.com/NLP2CT/GECScore)
+
 
 #### &nbsp;&nbsp;♣️ Hard Explainable Methods
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Perplexity
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - HowkGPT: Investigating the Detection of ChatGPT-generated University Student Homework through Context-Aware Perplexity Analysis  [Paper](https://arxiv.org/abs/2305.18226)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - GPTZero [Tool](https://gptzero.me/)
 
-
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Log Probabilities Curvature
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Detectgpt: Zero-shot machine-generated text detection using probability curvature [Paper](https://dl.acm.org/doi/10.5555/3618408.3619446) [GitHub](https://github.com/eric-mitchell/detect-gpt)
 
-
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Efficient Perturbations
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Efficient Detection of LLM-generated Texts with a Bayesian Surrogate Model [Paper](https://arxiv.org/abs/2305.16617)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Fast-DetectGPT: Efficient Zero-Shot Detection of Machine-Generated Text via Conditional Probability Curvature [Paper](https://arxiv.org/abs/2310.05130)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - DetectLLM: Leveraging Log Rank Information for Zero-Shot Detection of Machine-Generated Text [Paper](https://arxiv.org/abs/2306.05540) [GitHub](https://github.com/mbzuai-nlp/DetectLLM)
-
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Positive Unlabeled
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Spotting LLMs With Binoculars: Zero-Shot Detection of Machine-Generated Text [Paper](https://arxiv.org/abs/2401.12070) [GitHub](https://github.com/ahans30/Binoculars)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Multiscale Positive-Unlabeled Detection of AI-Generated Texts [Paper](https://arxiv.org/abs/2305.18149) [GitHub](https://github.com/YuchuanTian/AIGC_text_detector)
-
 
 ### Beyond Detection
 
@@ -280,9 +267,20 @@ Please read the column I20(Input-to-Output) with these abbreviations:
   <figcaption style="text-align: center;">Illustrations of beyond detection methodologies for LAIM-generated text. </figcaption>
 </figure>
 
-#### &nbsp;&nbsp;♣️ Attribution
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Deep-learning Based
+#### &nbsp;&nbsp;🚀 Efficiency
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Efficient Detection of LLM-generated Texts with a Bayesian Surrogate Model [Paper](https://aclanthology.org/2024.findings-acl.366/)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Fast-DetectGPT: Efficient Zero-Shot Detection of Machine-Generated Text via Conditional Probability Curvature [Paper](https://arxiv.org/abs/2310.05130) [GitHub](https://github.com/baoguangsheng/fast-detect-gpt)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - DetectLLM: Leveraging Log Rank Information for Zero-Shot Detection of Machine-Generated Text [Paper](https://arxiv.org/abs/2306.05540) [GitHub](https://github.com/mbzuai-nlp/DetectLLM)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - SeqXGPT: Sentence-Level AI-Generated Text Detection [Paper](https://arxiv.org/abs/2310.08903) [GitHub](https://github.com/Jihuai-wpy/SeqXGPT)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Glimpse: Enabling White-Box Methods to Use Proprietary Models for Zero-Shot LLM-Generated Text Detection [Paper](https://arxiv.org/abs/2412.11506) [GitHub](https://github.com/baoguangsheng/glimpse)
+
+
+#### &nbsp;&nbsp;♣️ Attribution
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - TURINGBENCH: A Benchmark Environment for Turing Test in the Age of Neural Text Generation [Paper](https://aclanthology.org/2021.findings-emnlp.172.pdf) [Turingbench](https://turingbench.ist.psu.edu/)
 
@@ -292,88 +290,59 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - TopRoBERTa: Topology-Aware Authorship Attribution of Deepfake Texts [Paper](https://arxiv.org/pdf/2309.12934.pdf)
 
-
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Stylometric/Statistical
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Authorship attribution for neural text generation [Paper](https://aclanthology.org/2020.emnlp-main.673.pdf) [GitHub](https://github.com/AdaUchendu/Authorship-Attribution-for-Neural-Text-Generation)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Gpt-who: An information density-based machine-generated text detector [Paper](https://arxiv.org/pdf/2310.06202.pdf)
 
-
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Perplexity
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - LLMDet: A Third Party Large Language Models Generated Text Detection Tool [Paper](https://aclanthology.org/2023.findings-emnlp.139.pdf) [GitHub](https://github.com/TrustedLLM/LLMDet)
 
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Style Representation
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Few-Shot Detection of Machine-Generated Text using Style Representations [Paper](https://arxiv.org/abs/2401.06712)
-
-
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Origin Tracing
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Origin Tracing and Detecting of LLMs [Paper](https://arxiv.org/abs/2304.14072)
 
 
 #### &nbsp;&nbsp;♣️ Generalization
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Structured Search
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Ghostbuster: Detecting Text Ghostwritten by Large Language Models [Paper](https://arxiv.org/abs/2305.15047)
 
-
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Contrastive Learning
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Conda: Contrastive domain adaptation for ai-generated text detection [Paper](https://arxiv.org/abs/2309.03992) [GitHub](https://github.com/AmritaBh/ConDA-gen-text-detection)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Text Fluoroscopy: Detecting LLM-Generated Text through Intrinsic Features [Paper](https://aclanthology.org/2024.emnlp-main.885/) [GitHub](https://github.com/Fish-and-Sheep/Text-Fluoroscopy)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - DeTeCtive: Detecting AI-generated Text via Multi-Level Contrastive Learning [Paper](https://arxiv.org/abs/2410.20964) [GitHub](https://github.com/heyongxin233/DeTeCtive)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Intrinsic Dimension Estimation for Robust Detection of AI-Generated Texts [Paper](https://arxiv.org/abs/2306.04723) [GitHub](https://github.com/ArGintum/GPTID)
 
 #### &nbsp;&nbsp;♣️ Interpretability
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ N-gram Overlaps
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - DNA-GPT: Divergent N-Gram Analysis for Training-Free Detection of GPT-Generated Text [Paper](https://arxiv.org/abs/2305.17359) [GitHub](https://github.com/Xianjun-Yang/DNA-GPT)
 
-
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ P-values
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - A Watermark for Large Language Models [Paper](https://proceedings.mlr.press/v202/kirchenbauer23a/kirchenbauer23a.pdf) [GitHub](https://github.com/jwkirchenbauer/lm-watermarking)
-
-
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Shapley Additive Explanations
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Chatgpt or human? detect and explain. explaining decisions of machine learning model for detecting short chatgpt-generated text [Paper](https://arxiv.org/abs/2301.13852)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Check Me If You Can: Detecting ChatGPT-Generated Academic Writing using CheckGPT [Paper](https://arxiv.org/abs/2306.05524)
 
-
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Polish Ratio
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Is chatgpt involved in texts? measure the polish ratio to detect chatgpt-generated text [Paper](https://arxiv.org/pdf/2307.11380.pdf#:~:text=PR%3A%20Polish%20Ratio%20is%20a,and%20the%20corresponding%20polished%20texts.)
 
 
 #### &nbsp;&nbsp;♣️ Robustness
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Adversarial Data Augmentation
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Is chatgpt involved in texts? measure the polish ratio to detect chatgpt-generated text [Paper](https://arxiv.org/pdf/2307.11380.pdf#:~:text=PR%3A%20Polish%20Ratio%20is%20a,and%20the%20corresponding%20polished%20texts.)
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Adversarial Attack Robustness
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Red Teaming Language Model Detectors with Language Models [Paper](https://arxiv.org/abs/2305.19713)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - MGTBench: Benchmarking Machine-Generated Text Detection [Paper](https://arxiv.org/abs/2303.14822) [GitHub](https://github.com/xinleihe/MGTBench)
-
-
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Adversarial Learning
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Radar: Robust ai-text detection via adversarial learning [Paper](https://arxiv.org/abs/2307.03838) [Project Page](https://radar.vizhub.ai/)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Outfox: Llm-generated essay detection through in-context learning with adversarially generated examples [Paper](https://arxiv.org/abs/2307.11729)
-
-
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Stylistic/Consistency
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - J-guard: Journalism guided adversarially robust detection of ai-generated news [Paper](http://www.afnlp.org/conferences/ijcnlp2023/proceedings/main-long/cdrom/pdf/2023.ijcnlp-long.32.pdf4)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Intrinsic Dimension Estimation for Robust Detection of AI-Generated Texts [Paper](https://arxiv.org/abs/2306.04723)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Outfox: Llm-generated essay detection through in-context learning with adversarially generated examples [Paper](https://arxiv.org/abs/2307.11729)
+
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ LAIM-Polished Robustness
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Is chatgpt involved in texts? measure the polish ratio to detect chatgpt-generated text [Paper](https://arxiv.org/pdf/2307.11380.pdf#:~:text=PR%3A%20Polish%20Ratio%20is%20a,and%20the%20corresponding%20polished%20texts.)
 
 
 #### &nbsp;&nbsp;♣️ Empirical Study
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Generalization/Robustness
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ChatLog: Recording and Analyzing ChatGPT Across Time [Paper](https://arxiv.org/abs/2304.14106) [GitHub](https://github.com/THU-KEG/ChatLog)
 
@@ -385,29 +354,17 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Deepfake Text Detection in the Wild [Paper](https://arxiv.org/abs/2305.13242) [GitHub](https://github.com/yafuly/DeepfakeTextDetect)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - How large language models are transforming machine-paraphrased plagiarism  [Paper](https://aclanthology.org/2022.emnlp-main.62.pdf)
 
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Human Evaluation
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Paraphrase Detection: Human vs. Machine Content [Paper](https://arxiv.org/abs/2303.13989)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - MGTBench: Benchmarking Machine-Generated Text Detection [Paper](https://dl.acm.org/doi/10.1145/3658644.3670344) [GitHub](https://github.com/xinleihe/MGTBench)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - How close is chatgpt to human experts? comparison corpus, evaluation, and detection [Paper](https://arxiv.org/abs/2301.07597) [GitHub](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Can LLM-Generated Misinformation Be Detected? [Paper](https://arxiv.org/abs/2309.13788) [GitHub](https://llm-misinformation.github.io/)
 
-
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Attribution
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - From Text to Source: Results in Detecting Large Language Model-Generated Content [Paper](https://arxiv.org/abs/2309.13322)
-
-
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Paraphrase Detection
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - How large language models are transforming machine-paraphrased plagiarism  [Paper](https://aclanthology.org/2022.emnlp-main.62.pdf)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Paraphrase Detection: Human vs. Machine Content [Paper](https://arxiv.org/abs/2303.13989)
-
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▶️ Sample Complexity
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - On the Possibilities of AI-Generated Text Detection  [Paper](https://arxiv.org/pdf/2304.04736.pdf)
-
 
 ### <p align="center"> 📸 Image </p>
 -----------

@@ -136,104 +136,53 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 - T2A: Text-to-Audio
 - I.A2V: (Image conditioned with Audio)-to-Video
 
-| **Modality** | **Dataset** | **Content** | **Link** | **I2O** | **#Real** | **#Generated** | **Source of Real Media** | **Generation Method** | **Year** |
-|--------------|-------------|-------------|----------|---------|-----------|----------------|--------------------------|-----------------------|----------|
-| **Text** | Student Essays | Essays | [Link](https://github.com/vivek3141/ghostbuster) | T2T | 1,000 | 6,000 | IvyPanda | ChatGPT | 2023 |
-| **Text** | Creative Writing | Essays | [Link](https://github.com/vivek3141/ghostbuster) | T2T | 1,000 | 6,000 | Reddit WritingPrompts | ChatGPT | 2023 |
-| **Text** | News Articles | Essays | [Link](https://github.com/vivek3141/ghostbuster) | T2T | 1,000 | 6,000 | Reuters 50-50 | ChatGPT | 2023 |
-| **Text** | Paraphrase | Essays | [Link](https://huggingface.co/datasets/jpwahle/autoregressive-paraphrase-dataset) | T2T | 98,280 | 163,710 | Arxiv, Wikipedia, Theses | GPT-3, T5 | 2022 |
-| **Text** | Authorship Attribution | Essays | [Link](https://github.com/AdaUchendu/Authorship-Attribution-for-Neural-Text-Generation/tree/master/data) | T2T | 1,064 | 8,512 | News Media | Various GPT, CTRL, GROVER, etc. | 2020 |
-| **Text** | OUTFOX | Essays | [Link](https://github.com/ryuryukke/OUTFOX) | T2T | 15,400 | 15,400 | Feedback Prize | ChatGPT, GPT-3.5, T5 | 2023 |
-| **Text** | MULTITuDE | News | [Link](https://zenodo.org/records/10013755) | T2T | 7,992 | 66,089 | MassiveSumm | GPT-3, GPT-4, ChatGPT | 2023 |
-| **Text** | TuringBench | News | [Link](https://turingbench.ist.psu.edu/) | T2T | 8,854 | 159,758 | News Media | Various GPT, CTRL, GROVER, etc. | 2021 |
-| **Text** | GPT-3.5 unmixed | News | [Link](https://huggingface.co/datasets/ZachW/MGTDetect_CoCo) | T2T | 5,454 | 5,454 | News Media | GPT-3.5 | 2023 |
-| **Text** | GPT-3.5 mixed | News | [Link](https://huggingface.co/datasets/ZachW/MGTDetect_CoCo) | T2T | 5,032 | 5,032 | News Media | GPT-3.5 | 2023 |
-| **Text** | GPABenchmark | Writing | [Link](https://github.com/liuzey/CheckGPT) | T2T | 150,000 | 450,000 | Arxiv | GPT-3.5 | 2023 |
-| **Text** | HPPT | Abstracts | [Link](https://github.com/FreedomIntelligence/ChatGPT-Detection-PR-HPPT) | T2T | 6,050 | 6,050 | ACL Anthology | ChatGPT | 2023 |
-| **Text** | TweepFake | Tweets | [Link](https://github.com/tizfa/tweepfake_deepfake_text_detection) | T2T | 12,786 | 12,786 | GitHub, Twitter | GPT-2, RNN, LSTM | 2021 |
-| **Text** | SynSciPass | Passages | [Link](https://github.com/domenicrosati/synscipass/tree/main/SynSciPass) | T2T | 99,989 | 10,485 | Scientific papers | GPT-2, BLOOM | 2022 |
-| **Text** | Deepfake-TextDetect | General | [Link](https://github.com/yafuly/DeepfakeTextDetect) | T2T | 154,078 | 294,381 | Various sources including Reddit, ELI5, Yelp, etc. | Various including GPT, GLM, LLAIMA, T5, OPT | 2022 |
-| **Text** | HC-Var | General | [Link](https://huggingface.co/datasets/hannxu/hc_var) | T2T | 90,096 | 45,000 | Various including XSum, IMDb, Yelp, Reddit, etc. | ChatGPT | 2023 |
-| **Text** | HC3 | General | [Link](https://huggingface.co/datasets/Hello-SimpleAI/HC3) | T2T | 26,903 | 58,546 | Various including FiQA, Wiki, ELI5, etc. | ChatGPT | 2023 |
-| **Text** | M4 | General | [Link](https://github.com/mbzuai-nlp/M4) | T2T | 32,798 | 89,683 | Various including Wikipedia, WikiHow, Arxiv, etc. | Various including ChatGPT, GTP-3.5, LLAIMA, T5, Dolly-v2, etc. | 2023 |
-| **Text** | MixSet | General | [Link](https://github.com/Dongping-Chen/MixSet) | T2T | 300 | 3,600 |Enron Email, Steam Reviews, BBC News, ArXiv-10,  TED Talk, Blog  | LLaMA2, GPT-4 | 2024 |
-| **Text** | InternVid | Captions | [Link](https://github.com/OpenGVLab/InternVideo/tree/main/Data/InternVid) | V2T | 7,000,000 | 234,000,000 | YouTube | ViCLIP | 2023 |
-| **Image** | DFF | Face | [Link](https://huggingface.co/datasets/OpenRL/DeepFakeFace) | T2I/I2I | 30,000 | 90,000 | IMDB-WIKI | SDMs, InsightFace | 2023 |
-| **Image** | DiFF | Face | [Link](https://github.com/xaCheng1996/DiFF) | T2I/I2I | 2,500 | 500,000 | CelebA, Prompts | 16 DMs | 2024 |
-| **Image** | GANDiffFace | Face | [Link](https://github.com/PietroMelzi/GANDiffFace) | T/I2I | - | 73293 | FFHQ |StyleGAN3, DreamBooth| 2023 |
-| **Image** | RealFaces | Face | [Link](https://github.com/LucaCorvitto/RealFaces_w_StableDiffusion) | T2I | 258 | 25,800 | Prompts | SDMs | 2023 |
-| **Image** | DCFace | Face | [Link](https://drive.google.com/drive/folders/1bbG2P3pz81ujj-Ss1mOLol3qnQhc4nBJ) | I2I | - | 1,200,000 | FFHQ, CASIA-WebFace | DDPM| 2023 |
-| **Image** | IDiff-Face | Face | [Link](https://github.com/fdbtrs/IDiff-Face) | I2I | - | 500,000  | FFHQ |DDPM| 2023 |
-| **Image** | OverheadImg | Overhead | [Link](https://stresearch.github.io/synthetic-overhead-dataset/) | T2I/I2I | 6,475 | 6,675 | MapBox, Google Maps | GLIDE, DDPM | 2023 |
-| **Image** | Synthbuster  | General | [Link]([https://github.com/GenImage-Dataset/GenImage](https://zenodo.org/records/10066460)) | T2I | - | 9,000 | Raise-1k | DALL·E 2&3, Firefly, Midjourney, SDMs, SDMs  | 2023 |
-| **Image** | GenImage | General | [Link](https://github.com/GenImage-Dataset/GenImage) | T2I/I2I | 1,331,167 | 1,350,000 | ImageNet | Various methods including SDMs, Midjourney, BigGAN, VQDM | 2023 |
-| **Image** | CIFAKE | General | [Link](https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images) | T2I | 60,000 | 60,000 | CIFAR-10 | SD-V1.4 | 2023 |
-| **Image** | AutoSplice | General | [Link](https://github.com/shanface33/AutoSplice_Dataset) | T2I | 2,273 | 3,621 | Visual News | DALL·E-2 | 2023 |
-| **Image** | DiffusionDB | General | [Link](https://huggingface.co/datasets/poloclub/diffusiondb) | T2I | 3,300,000 | 16,000,000 | DiscordChatExporter | SD | 2023 |
-| **Image** | ArtiFact | General | [Link](https://www.kaggle.com/datasets/awsaf49/artifact-dataset) | T2I/I2I | 964,989 | 1,531,749 | Various sources including AFHQ, CelebAHQ, COCO, etc. | Various methods including SDMs, VQDM, DDPM, LDM, etc. | 2023 |
-| **Image** | HiFi-IFDL | General | [Link](https://github.com/CHELSEA234/HiFi_IFDL) | T2I/I2I | ~600,000 | 1,300,000 | Various sources including FFHQ, AFHQ, CelebAHQ, etc. | Various methods including DDPM, DDIM, GLIDE, LDM, etc. | 2023 |
-| **Image** | DiffusionForensics | General | [Link](https://github.com/ZhendongWang6/DIRE) | T2I/I2I | 232,000 | 232,000 | LSUN, ImageNet | Various methods including LDM, DDPM, iDDPM, VQDM, ADM, PNDM | 2023 |
-| **Image** | CocoGlide | General | [Link](https://github.com/grip-unina/TruFor) | T2I | 512 | 512 | COCO | GLIDE | 2023 |
-| **Image** | Western Blot | General | [Link](https://www.dropbox.com/sh/nl3txxfovy97b1k/AABqb-gkGBEfjS6pjke3a-d7a?dl=0) | I2I | ~14,000 | ~24,000 | Western Blot | DDPM, Pix2pix, CycleGAN | 2022 |
-| **Image** | M3Dsynth | General | [Link](https://github.com/grip-unina/M3Dsynth/) | I2I | 1,018 | 8,577 | LIDC-IDRI | DDPM, Pix2pix, CycleGAN | 2023 |
-| **Image** | LSUNDB | General | [Link](https://zenodo.org/records/7528113) | T2I/I2I | 250,000 | 250,000 | LSUN | Various methods including DDPM, PNDM, LDM, ADM, ProjectedGAN, StyleGAN, DiffusionGAN | 2023 |
-| **Image** | UniversalFake | General | [Link](https://drive.google.com/file/d/1FXlGIRh_Ud3cScMgSVDbEWmPDmjcrm1t/view) | T2I | 8,000 | 8,000 | LAION-400M | LDM, GLIDE | 2023 |
-| **Image** | REGM | General | [Link](https://drive.google.com/file/d/1bAmC_9aMkWJB_scGvOOWvNeLa9FBoMUr/view) | T2I/I2I | - | 116,000 | CelebA, LSUN | 116 publicly available GMs | 2023 |
-| **Image** | DMimage | General | [Link](https://github.com/grip-unina/DMimageDetection) | T2I | 200,000 | 200,000 | COCO, LSUN | LDM | 2022 |
-| **Image** | AIGCD | General | [Link](https://github.com/Ekko-zn/AIGCDetectBenchmark) | T2I/I2I | 360,000 | 508,500 | Various sources including LSUN, ImageNet, CelebA, COCO, FFHQ | Various methods including SDMs, GANs, Midjourney, VQDM, ADM, DALL·E-2, GLIDE, WFIR, Wukong | 2023 |
-| **Image** | DIF | General | [Link](https://github.com/sergo2020/dif_pytorch_official) | T2I/I2I | 84,300 | 84,300 | LAION-5B | Various methods including SDMs, DALL·E-2, Midjourney, GLIDE, GANs | 2023 |
-| **Image** | Fake2M | General | [Link](https://github.com/Inf-imagine/Sentry) | T2I/I2I | - | 2,300,000 | CC3M | SD-V1.5, IF, StyleGAN3 | 2023 |
-| **Video** | Diffused-head | Face | [Link](https://drive.google.com/file/d/1zWSqtV7O4WGkgh6WB55b8Mdg2lXXUudH/view) | I.A2V | - | 820 | CREMA | Diffused Heads: build on DDPM | 2023 |
-| **Audio** | LibriSeVoc | Speech | [Link](https://drive.google.com/file/d/1NXF9w0YxzVjIAwGm_9Ku7wfLHVbsT7aG/view) | T2A | 13,201 | 79,206 | LibriTTS | Various methods including DiffWave, WaveNet, WaveRNN, Mel-GAN, WaveGrad | 2023 |
-| **Multi-modal** | $DGM^4$ | News | [Link](https://github.com/rshaojimmy/MultiModal-DeepFake) | T2T/I2I | 77,426 | 152,574 | Visual News | Various methods including B-GST, StyleCLIP, HFGI, InfoSwap, SimSwap | 2023 |
-| **Multi-modal** | COCOFake | General | [Link](https://github.com/aimagelab/ELSA_COCO-Fake) | T2T/T2I | 113,287 | 566,435 | COCO | SDMs | 2023 |
 
 | Modality | Dataset          | Year | BM  | Content     | Link | I2O | #Real   | #Generated | Source of Real Media                                        | Generative Method                                |
 |----------|------------------|------|-----|-------------|------|-----|---------|-------------|-------------------------------------------------------------|--------------------------------------------------|
-| Text     | TuringBench      | 2021 | ✔   | News        | [Link](#) | T2T | 8,854   | 159,758     | News Media                                                 | GPT-1&2&3, CTRL [28], GROVER [29]                |
-|          | Paraphrase       | 2022 |     | Essays      | [Link](#) | T2T | 98,280  | 163,710     | Arxiv, Wikipedia, Theses                                   | GPT-3, T5 [31]                                   |
-|          | SynSCiPass   | 2022 |     | Passages    | [Link](#) | T2T | 99,989  | 99,989      | Scientific papers                                          | GPT-2, BLOOM [33]                                |
+| Text     | TuringBench      | 2021 | ✔   | News        | [Link](#) | T2T | 8,854   | 159,758     | News Media                                                 | GPT-1&2&3, CTRL, GROVER                |
+|          | Paraphrase       | 2022 |     | Essays      | [Link](#) | T2T | 98,280  | 163,710     | Arxiv, Wikipedia, Theses                                   | GPT-3, T5                                   |
+|          | SynSCiPass   | 2022 |     | Passages    | [Link](#) | T2T | 99,989  | 99,989      | Scientific papers                                          | GPT-2, BLOOM                                |
 |          | MAGE         | 2023 | ✔   | General     | [Link](#) | T2T | 154,078 | 294,381     | Reddit, EL15 [35], Yelp, XSum [36]                         | 27 LLMs                                          |
 |          | Stu.Essays   | 2023 |     | Essays      | [Link](#) | T2T | 1,000   | 6,000       | Ivy Panda [38]                                             | ChatGPT                                          |
 |          | Writing      | 2023 |     | Stories     | [Link](#) | T2T | 1,000   | 6,000       | Reddit WritingPrompts [39]                                | ChatGPT                                          |
 |          | News         | 2023 |     | News        | [Link](#) | T2T | 1,000   | 6,000       | Reuters 50-50 [40]                                         | ChatGPT                                          |
-|          | OUTFOX      | 2023 | ✔   | News        | [Link](#) | T2T | 15,400  | 15,400      | Feedback Prize [42]                                        | ChatGPT, GPT-3.5, T5 [31]                        |
+|          | OUTFOX      | 2023 | ✔   | News        | [Link](#) | T2T | 15,400  | 15,400      | Feedback Prize [42]                                        | ChatGPT, GPT-3.5, T5                        |
 |          | MULTITuDE   | 2023 | ✔   | Essays      | [Link](#) | T2T | 7,992   | 16,005      | MassiveSumm [44]                                           | GPT-3&4, ChatGPT                                 |
 |          | MGTDetect-CoCo | 2023 |     | News        | [Link](#) | T2T | 10,486  | 10,484      | News Outlets                                               | GPT-3.5                                          |
 |          | PPPT        | 2023 |     | Abstracts   | [Link](#) | T2T | 1,000   | 1,000       | ACL Anthology [47]                                         | ChatGPT                                          |
 |          | HC-Var       | 2023 |     | General     | [Link](#) | T2T | 90,096  | 90,096      | XSum [36], IMDb, Yelp, FiQA [49]                          | ChatGPT                                          |
 |          | HC3         | 2023 | ✔   | General     | [Link](#) | T2T | 26,903  | 58,546      | FiQA [49], EL15 [35], MediaDialog [51]                     | ChatGPT                                          |
-|          | M4           | 2023 | ✔   | General     | [Link](#) | T2T | 32,799  | 58,803      | WikiHow [53], Arxiv, Reddit                                | ChatGPT, GPT-3.5, LLaMA, T5 [31], BLOOM [33]     |
+|          | M4           | 2023 | ✔   | General     | [Link](#) | T2T | 32,799  | 58,803      | WikiHow [53], Arxiv, Reddit                                | ChatGPT, GPT-3.5, LLaMA, T5, BLOOM     |
 |          | P3         | 2023 |     | Social Media| [Link](#) | T2T | 12,723  | 27,667      | Politifact [55], Snopes [56]                               | GPT-3.5                                          |
 |          | MixSet       | 2024 |     | General     | [Link](#) | T2T | 3,600   | 3,600       | Email [58], BBC News [59], ArXiv                           | GPT-4, LLaMA2                                    |
 |          | GPABench     | 2024 | ✔   | Writing     | [Link](#) | T2T | 150,000 | 450,000     | Arxiv                                                     | GPT-3.5                                          |
 |          | M4GT-Bench       | 2024 |     | General     | [Link](#) | T2T | 119,771 | 119,388     | Wikipedia, WikiHow, Reddit, ArXiv, News                   | 10 LLMs                                          |
 |          | RAID        | 2024 | ✔   | General     | [Link](#) | T2T | 14,917  | 6,287,820   | Public datasets from 8 domains                            | 11 LLMs                                          |
-|          | DetectRL     | 2024 |     | General     | [Link](#) | T2T | 100,800 | 134,400     | Writing Prompts [63], Yelp                                | GPT-3.5, PaLM2 [64], Claude, LLaMA2              |
+|          | DetectRL     | 2024 |     | General     | [Link](#) | T2T | 100,800 | 134,400     | Writing Prompts [63], Yelp                                | GPT-3.5, PaLM2, Claude, LLaMA2              |
 |          | MultiSocial  | 2024 |     | Social Media| -         | T2T | 58,000  | 414,000     | Gab, Discord, WhatsApp                                    | 7 LLMs                                           |
 |          | SM-D         | 2024 |     | Social Media| -         | T2T | -       | -           | Medium, Quora, Reddit                                     | Sourced from social media                        |
-| Image    | DFF          | 2023 |     | Face        | [Link](#) | T/I2I | 30,000    | 90,000       | IMDB-WIKI [68]                                   | SDMs, InsightFace [69]                                   |
+| Image    | DFF          | 2023 |     | Face        | [Link](#) | T/I2I | 30,000    | 90,000       | IMDB-WIKI [68]                                   | SDMs, InsightFace                                   |
 |          | RealFaces   | 2023 |     | Face        | [Link](#) | T2I   | 258       | 258          | Prompts                                           | SDMs                                                      |
-|          | OHImg        | 2023 |     | Overhead    | [Link](#) | T/I2I | 6,475     | 6,675        | MapBox [72], Google Maps                          | GLIDE [73], DDPM [74]                                     |
-|          | Western Blot | 2022 |     | Biology     | [Link](#) | T/I2I | ~14,000   | -            | Western Blot                                      | DDPM, Pix2pix [76], CycleGAN [77]                         |
-|          | Synthbuster | 2023 |     | General     | [Link](#) | T2I   | -         | 9,000        | Raise-1K                                          | DALL-E 2&3, Midjourney, SDMs, GLIDE [73]                  |
-|          | GenImage    | 2023 | ✔   | General     | [Link](#) | T/I2I | 1,331,167 | 1,350,000     | ImageNet                                          | SDMs, Midjourney, BigGAN [81]                             |
+|          | OHImg        | 2023 |     | Overhead    | [Link](#) | T/I2I | 6,475     | 6,675        | MapBox [72], Google Maps                          | GLIDE, DDPM                                     |
+|          | Western Blot | 2022 |     | Biology     | [Link](#) | T/I2I | ~14,000   | -            | Western Blot                                      | DDPM, Pix2pix, CycleGAN                         |
+|          | Synthbuster | 2023 |     | General     | [Link](#) | T2I   | -         | 9,000        | Raise-1K                                          | DALL-E 2&3, Midjourney, SDMs, GLIDE                 |
+|          | GenImage    | 2023 | ✔   | General     | [Link](#) | T/I2I | 1,331,167 | 1,350,000     | ImageNet                                          | SDMs, Midjourney, BigGAN                            |
 |          | CIFAKE       | 2023 |     | General     | [Link](#) | T/I2I | 60,000    | 60,000       | CIFAR-10                                          | SD-V1.4                                                   |
 |          | AutoSplice   | 2023 |     | General     | [Link](#) | T2I   | 2,275     | 3,621        | Visual News                                       | DALL-E 2                                                  |
 |          | DiffusionDB  | 2023 |     | General     | [Link](#) | T/I2I | 3,300,000 | 16,000,000   | DiscordChatExporter [86]                          | SD                                                        |
-|          | Artifact    | 2023 |     | General     | [Link](#) | T/I2I | 1,749     | 960,894      | COCO, FFHQ [88], COCO, LSUN                       | SDMs, DDPM [74], LDM [89], CIPS [90]                      |
-|          | HiFi-FIDL    | 2023 | ✔   | General     | [Link](#) | T/I2I | ~60,000   | 1,300,000     | FFHQ [88], COCO, LSUN                              | DDPM [74], GLIDE [73], LDM [89], GANs                     |
-|          | DiffForensics | 2023 |     | General     | [Link](#) | T/I2I | 232,000   | 232,000      | LSUN, ImageNet                                     | LDM [89], DDPM [74], VQDM [93], ADM [94]                  |
-|          | CocoGlide   | 2023 |     | General     | [Link](#) | T/I2I | 512       | 512          | COCO                                               | GLIDE [73]                                                |
-|          | LSUNDB       | 2023 |     | General     | [Link](#) | T/I2I | 250,000   | 250,000      | LSUN                                               | DDPM [74], LDM [89], StyleGAN [88]                        |
-|          | UniFake      | 2023 |     | General     | [Link](#) | T/I2I | 8,000     | 8,000        | LAION-400M [98]                                    | LDM [89], GLIDE [73]                                      |
+|          | Artifact    | 2023 |     | General     | [Link](#) | T/I2I | 1,749     | 960,894      | COCO, FFHQ [88], COCO, LSUN                       | SDMs, DDPM, LDM, CIPS                      |
+|          | HiFi-FIDL    | 2023 | ✔   | General     | [Link](#) | T/I2I | ~60,000   | 1,300,000     | FFHQ [88], COCO, LSUN                              | DDPM, GLIDE, LDM, GANs                     |
+|          | DiffForensics | 2023 |     | General     | [Link](#) | T/I2I | 232,000   | 232,000      | LSUN, ImageNet                                     | LDM, DDPM, VQDM, ADM                 |
+|          | CocoGlide   | 2023 |     | General     | [Link](#) | T/I2I | 512       | 512          | COCO                                               | GLIDE                                                |
+|          | LSUNDB       | 2023 |     | General     | [Link](#) | T/I2I | 250,000   | 250,000      | LSUN                                               | DDPM, LDM, StyleGAN                        |
+|          | UniFake      | 2023 |     | General     | [Link](#) | T/I2I | 8,000     | 8,000        | LAION-400M [98]                                    | LDM, GLIDE                                     |
 |          | REGM        | 2023 |     | General     | [Link](#) | T/I2I | 116,000   | 116,000      | CelebA [100], LSUN                                  | 116 publicly available GMs                                |
-|          | DMImage     | 2023 |     | General     | [Link](#) | T/I2I | 200,000   | 200,000      | COCO, LSUN                                          | LDM [89]                                                  |
-|          | AIGCD       | 2023 | ✔   | General     | [Link](#) | T/I2I | 360,000   | 580,000      | LSUN, COCO, FFHQ [88]                               | SDMs, GANs, ADM [94], DALL-E 2, GLIDE [73]                |
-|          | DIF        | 2023 | ✔   | General     | [Link](#) | T/I2I | 34,800    | 54,500       | LAION-585                                           | SDMs, DALL-E 2, GLIDE [73], GANS                          |
-|          | Fake2M      | 2024 | ✔   | General     | [Link](#) | T/I2I | 2,300,000 | -            | CC3M [106]                                          | SD-V1.5, IOI [107], IF [108], StyleGAN3                  |
-|          | SID-Set     | 2024 |     | Social Media| [Link](#) | T/I2I | 100,000   | 100,000      | COCO, Flickr30K, MagicBrush                          | FLUX [110]                                                |
-|          | Chameleon   | 2024 |     | Social Media| [Link](#) | T/I2I | 14,863    | 11,170       | Unsplash [112]                                       | GANs, SDMs, DALL-E 2, GLIDE [73]                          |
+|          | DMImage     | 2023 |     | General     | [Link](#) | T/I2I | 200,000   | 200,000      | COCO, LSUN                                          | LDM                                                 |
+|          | AIGCD       | 2023 | ✔   | General     | [Link](#) | T/I2I | 360,000   | 580,000      | LSUN, COCO, FFHQ [88]                               | SDMs, GANs, ADM, DALL-E 2, GLIDE               |
+|          | DIF        | 2023 | ✔   | General     | [Link](#) | T/I2I | 34,800    | 54,500       | LAION-585                                           | SDMs, DALL-E 2, GLIDE, GANS                          |
+|          | Fake2M      | 2024 | ✔   | General     | [Link](#) | T/I2I | 2,300,000 | -            | CC3M [106]                                          | SD-V1.5, IOI, IF , StyleGAN3                  |
+|          | SID-Set     | 2024 |     | Social Media| [Link](#) | T/I2I | 100,000   | 100,000      | COCO, Flickr30K, MagicBrush                          | FLUX                                                |
+|          | Chameleon   | 2024 |     | Social Media| [Link](#) | T/I2I | 14,863    | 11,170       | Unsplash [112]                                       | GANs, SDMs, DALL-E 2, GLIDE                         |
 |          | DF40       | 2024 |     | Face        | [Link](#) | T/I2I | ~1,100    | ~1,000,000   | FF++, CDF, FFHQ, CelebA                              | SDMs, GANs, Midjourney, DDPM                             |
 |          | FakeBench  | 2024 |     | General     | [Link](#) | T/I2I | 3,000     | 3,000        | 10 Public Datasets                                   | 10 Generative Models                                     |
 |          | AI-Face     | 2024 | ✔   | Face        | [Link](#) | T/I2I | 400,885   | 1,245,660    | 6 Public datasets                                     | SDMs, GANs, Midjourney, IF                               |
@@ -244,18 +193,18 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 |          | GenVidBench  | 2025 | ✔   | General     | [Link](#) | I/T2V   | 33,931      | 110,400       | Vript [127], HDL-VG-130M [128]                        | 8 Generative Models                            |
 |          | PDID        | 2024 |     | Social Media| [Link](#) | -       | -           | -             | Social Media                                           | Social Media                                   |
 | Audio    | In-the-Wild  | 2022 |     | Speech      | [Link](#) | T2A     | 20.7 hours  | 17.2 hours    | Social Media, Video Streaming Platforms               | Social Media, Video Streaming Platforms        |
-|          | LibriSeVoc  | 2023 |     | Speech      | [Link](#) | T2A     | 13,201      | 79,206        | LibriTTS [132]                                         | DiffWave [133], WaveNet [134]                 |
-|          | SONAR       | 2024 |     | Speech      | [Link](#) | T2A     | -           | 2,274         | LibriTTS [132]                                         | OpenAI [136], Seed-TTS [137], AudioGen [138]  |
+|          | LibriSeVoc  | 2023 |     | Speech      | [Link](#) | T2A     | 13,201      | 79,206        | LibriTTS [132]                                         | DiffWave, WaveNet                 |
+|          | SONAR       | 2024 |     | Speech      | [Link](#) | T2A     | -           | 2,274         | LibriTTS [132]                                         | OpenAI, Seed-TTS, AudioGen  |
 |          | ASVspoof 2024 | 2024| ✔   | Speech      | [Link](#) | T/A2A   | ~289,527    | ~1,211,186    | MLS-English [140]                                     | 32 Manipulation Methods                        |
-| Multi-modal  | *DGM^4* [14]        | 2023 |     | News        | [Link](#) | T/I2T                    | 77,426    | 152,574       | Visual News [84]                                               | B-GST [141], StyleCLIP [142], HFGI [143]         |
-|              | COCOFake [144]      | 2023 |     | General     | [Link](#) | T/I2T                    | 113,287   | 566,435       | COCO                                                           | SDMs                                             |
-|              | AV-Deepfake1M [145] | 2023 | ✔   | Face        | [Link](#) | T2A                     | 286,721   | 860,039       | Voxceleb2 [146]                                               | VITS [147], YourTTS [148], TalkLip [149]        |
-|              | *D³* [150]          | 2024 |     | General     | [Link](#) | T2I                     | ~2,300,000| ~9,200,000     | LAION-400M                                                     | SDMs, IF                                         |
-|              | *M³A* [151]         | 2024 |     | News        | -    | T2T/I/T/V/V/A/T<br>T/I/V/V/A2T | 708,425   | 6,566,386     | 60 News Outlets                                                | LLaMA2, GPT-4, GLIDE [73], SD, Tango [152]       |
-|              | LOKI [153]          | 2024 |     | General     | [Link](#) | T2T/I/T/V/V/T<br>T/I/V/V/A2T | ~9,000    | ~9,000         | 21 Public Datasets                                             | 43 Generative Models                             |
-|              | MMFakeBench [154]   | 2024 | ✔   | Social Media| [Link](#) | T2T/I                  | -         | ~11,000        | MS-COCO, VisualNews, Reddit, FEVER [155]                      | GPT-3.5, SD-XL, DALL-E 3, Midjourney             |
-|              | Deepfake-Eval [156] | 2024 |     | Social Media| [Link](#) | T2T/A/V                | 3,390     | 2,441          | Social Media                                                  | Social Media                                     |
-|              | ILLUSION [157]      | 2025 | ✔   | General     | [Link](#) | T2A/I<br>I2I            | 139,740   | 1,232,246      | CelebV-Text [158], COCO, MusicCaps [159], Social Media        | 28 Generative Methods                            |
+| Multi-modal  | *DGM^4*         | 2023 |     | News        | [Link](#) | T/I2T                    | 77,426    | 152,574       | Visual News [84]                                               | B-GST, StyleCLIP, HFGI         |
+|              | COCOFake       | 2023 |     | General     | [Link](#) | T/I2T                    | 113,287   | 566,435       | COCO                                                           | SDMs                                             |
+|              | AV-Deepfake1M  | 2023 | ✔   | Face        | [Link](#) | T2A                     | 286,721   | 860,039       | Voxceleb2 [146]                                               | VITS, YourTTS, TalkLip        |
+|              | *D³*          | 2024 |     | General     | [Link](#) | T2I                     | ~2,300,000| ~9,200,000     | LAION-400M                                                     | SDMs, IF                                         |
+|              | *M³A*          | 2024 |     | News        | -    | T2T/I/T/V/V/A/T<br>T/I/V/V/A2T | 708,425   | 6,566,386     | 60 News Outlets                                                | LLaMA2, GPT-4, GLIDE, SD, Tango       |
+|              | LOKI        | 2024 |     | General     | [Link](#) | T2T/I/T/V/V/T<br>T/I/V/V/A2T | ~9,000    | ~9,000         | 21 Public Datasets                                             | 43 Generative Models                             |
+|              | MMFakeBench    | 2024 | ✔   | Social Media| [Link](#) | T2T/I                  | -         | ~11,000        | MS-COCO, VisualNews, Reddit, FEVER [155]                      | GPT-3.5, SD-XL, DALL-E 3, Midjourney             |
+|              | Deepfake-Eval| 2024 |     | Social Media| [Link](#) | T2T/A/V                | 3,390     | 2,441          | Social Media                                                  | Social Media                                     |
+|              | ILLUSION       | 2025 | ✔   | General     | [Link](#) | T2A/I<br>I2I            | 139,740   | 1,232,246      | CelebV-Text [158], COCO, MusicCaps [159], Social Media        | 28 Generative Methods                            |
 
 ## :mag_right: Detection :fire:
 

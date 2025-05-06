@@ -72,7 +72,7 @@ If you find our survey useful for your research, please cite the following [Pape
             - [Vocoder-based](https://github.com/Purdue-M2/Detect-LAIM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-vocoder-based)
     - [Multimodal](https://github.com/Purdue-M2/Detect-LAIM-generated-Multimedia-Survey/blob/main/README.md#-multimodal)
         - [Pure Detection](https://github.com/Purdue-M2/Detect-LAIM-generated-Multimedia-Survey/blob/main/README.md#pure-detection-3)
-            - [Prompt-guided](https://github.com/Purdue-M2/Detect-LAIM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-text-assisted)
+            - [Prompt-guided](https://github.com/Purdue-M2/Detect-LAIM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-prompt-guided)
             - [Text-image Inconsistency](https://github.com/Purdue-M2/Detect-LAIM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-text-image-inconsistency)
         - [Beyond Detection](https://github.com/Purdue-M2/Detect-LAIM-generated-Multimedia-Survey/blob/main/README.md#beyond-detection-3)
             - [Attribution](https://github.com/Purdue-M2/Detect-LAIM-generated-Multimedia-Survey/blob/main/README.md#%EF%B8%8F-attribution-3)

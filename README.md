@@ -197,7 +197,7 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 ### Pure Detection
 
 <figure>
-  <img src="assets/text_pure.png" alt="text_pure">
+  <img src="assets/text_pure_new.png" alt="text_pure">
   <figcaption style="text-align: center;">Illustrations of pure detection methodologies for LAIM-generated text.</figcaption>
 </figure>
 

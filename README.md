@@ -247,7 +247,7 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 ### Beyond Detection
 
 <figure>
-  <img src="assets/text_beyond.png" alt="text_beyond">
+  <img src="assets/text_beyond_new.png" alt="text_beyond">
   <figcaption style="text-align: center;">Illustrations of beyond detection methodologies for LAIM-generated text. </figcaption>
 </figure>
 

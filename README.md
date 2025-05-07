@@ -355,7 +355,7 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 ###  Pure Detection
 
 <figure>
-  <img src="assets/image_pure.png" alt="image_pure">
+  <img src="assets/image_pure_new.png" alt="image_pure">
   <figcaption style="text-align: center;">Illustrations of pure detection methodologies for LAIM-generated image.</figcaption>
 </figure>
 
@@ -516,7 +516,7 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 ### <p align="center">🎞️ Video</p>
 -----------
 <p align="center">
-  <img src="assets/video_detection.png" alt="Video Detection" width="400">
+  <img src="assets/video.png" alt="Video Detection" width="400">
   
   <span>Illustration of detection methodology in generalization task for LAIM-generated video.
  </span>

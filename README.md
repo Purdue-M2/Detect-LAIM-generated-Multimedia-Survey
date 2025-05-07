@@ -103,6 +103,14 @@ If you find our survey useful for your research, please cite the following [Pape
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - GenAI against humanity: Nefarious applications of generative artificial intelligence and large language models [Paper](https://arxiv.org/abs/2310.00737)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - A Comprehensive Survey of Fake Text Detection on Misinformation and LM-Generated Texts [Paper](https://ieeexplore.ieee.org/document/10870239)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Recent Advances on Generalizable Diffusion-generated Image Detection [Paper](https://arxiv.org/abs/2502.19716)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Survey on AI-Generated Media Detection: From Non-MLLM to MLLM [Paper](https://arxiv.org/abs/2502.05240)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Passive Deepfake Detection Across Multi-modalities: A Comprehensive Survey [Paper](https://arxiv.org/abs/2411.17911)
+
 
 ##  Generation
 <figure>

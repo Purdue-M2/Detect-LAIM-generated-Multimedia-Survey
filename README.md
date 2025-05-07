@@ -516,7 +516,7 @@ Please read the column I20(Input-to-Output) with these abbreviations:
 ### <p align="center">🎞️ Video</p>
 -----------
 <p align="center">
-  <img src="assets/video.png" alt="Video Detection" width="600">
+  <img src="assets/video.png" alt="Video Detection" width="1000">
   
   <span>Illustration of detection methodology in generalization task for LAIM-generated video.
  </span>
